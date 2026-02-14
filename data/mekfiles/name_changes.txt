@@ -1214,7 +1214,8 @@ Gurteltier MBT (Standard)|Gurteltier MBT
 Gurzil Support Tank (Standard)|Gurzil Support Tank
 Gyrfalcon (Standard)|Gyrfalcon
 Ha Otoko (Standard)|Ha Otoko
-Ha Otoko-HR (Standard)|Ha Otoko-HR
+Ha Otoko-HR (Standard)|Ha Otoko -HR
+Ha Otoko-HR|Ha Otoko -HR
 Hachiman Fire Support Tank (Standard)|Hachiman Fire Support Tank
 Hadur Fast Support Vehicle (Standard)|Hadur Fast Support Vehicle
 Hammerhead (Standard)|Hammerhead
