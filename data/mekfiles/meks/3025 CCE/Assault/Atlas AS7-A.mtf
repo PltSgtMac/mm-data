@@ -17,6 +17,7 @@
 
 chassis:Atlas
 model:AS7-A
+mul id:7433
 source:TR:3025C
 
 Config:Biped

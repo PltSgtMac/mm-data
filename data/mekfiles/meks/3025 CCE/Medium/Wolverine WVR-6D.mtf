@@ -17,6 +17,7 @@
 
 chassis:Wolverine
 model:WVR-6D
+mul id:7430
 source:Record Sheets: Succession Wars
 
 Config:Biped
