@@ -217,7 +217,7 @@ TR:3057r
 3
 </escape_pod>
 
-# Fluff Date: 2026-02-26 15:14:41
+# Fluff Date: 2026-02-26 18:54:15
 <overview>
 <p>The Overlord class DropShip is one of the most recognizable and widely-produced military transport vessels in the Inner Sphere. First launched in 2762, this 9,700-ton Spheroid design quickly became the standard by which all other regiment-level Mek carriers would be judged. Produced by numerous shipyards across both the Inner Sphere and Clan space, the Overlord has served continuously for over three centuries, a testament to the fundamental soundness of its original design. Its distinctive teardrop profile and massive bay doors have become iconic symbols of military power projection throughout the BattleTech universe. Few designs have achieved such universal adoption across virtually every major military force in known space.</p><p>The sheer number of Overlords in service has made the class a common sight in virtually every major conflict since the fall of the Star League, and its continued production ensures it will remain so for the foreseeable future.</p>
 </overview>
@@ -244,7 +244,7 @@ TARGETING:Unknown
 
 <systemModels>
 CHASSIS:Unknown
-ENGINE:Unknown
+ENGINE:Star League V450
 ARMOR:Unknown
 COMMUNICATIONS:Unknown
 TARGETING:Unknown
