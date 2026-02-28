@@ -199,9 +199,9 @@ TR:3057r
 25
 </escape_pod>
 
-# Fluff Date: 2026-02-27 18:32:45
+# Fluff Date: 2026-02-28 11:02:26
 <overview>
-<p>The Excalibur-class DropShip is the largest military transport in common service among the Successor State militaries, capable of delivering a complete combined-arms regiment comprising two vehicle battalions, an infantry battalion, and a BattleMech company. Entering service in 2786 at the onset of the First Succession War, the Excalibur was selected as the replacement for the massive Colossus-class following the devastating losses of the Amaris Civil War, offering comparable transport capacity at significantly lower production cost. Despite this relative affordability, the vessel remains expensive enough that only Great House militaries, major mercenary commands, and large transport corporations have historically been able to operate them, ensuring the Excalibur's presence marks any deployment as a major military undertaking.</p>
+<p>The Excalibur-class DropShip is the largest military transport in common service among the Successor State militaries, a massive spheroid vessel capable of delivering a complete combined-arms regiment comprising two vehicle battalions, an infantry battalion, and a BattleMech company in a single planetary deployment. Entering service in 2786 at the onset of the First Succession War, the Excalibur was selected as the replacement for the even larger Colossus-class following the devastating losses of the Amaris Civil War, offering comparable transport capacity at significantly lower production cost. Despite this relative affordability, the vessel remains expensive enough that only Great House militaries, major mercenary commands, and large transport corporations such as Akira Transport have historically been able to operate them, ensuring the Excalibur's presence on any battlefield marks the commitment as a major military undertaking of the very highest strategic significance.</p>
 </overview>
 
 <capabilities>
@@ -209,7 +209,7 @@ TR:3057r
 </capabilities>
 
 <deployment>
-<p>The upgraded Excalibur has been produced by Semier Data Tron of Tharkad since 3056, primarily serving the Lyran Alliance and its successor states. The improved weapons range makes the upgraded variant somewhat less dependent on fighter escorts during transit operations, though the heat management limitations of the upgrade prevent sustained offensive use of the full weapons suite. The reduced troop capacity compared to the original has led some commands to employ the upgraded variant as a combined transport and logistics vessel rather than a dedicated assault transport.</p>
+<p>The upgraded Excalibur has been produced by Semier Data Tron of Tharkad since 3056, primarily serving the Lyran Alliance and its successor states. The improved weapons range makes the upgraded variant somewhat less dependent on fighter escorts during transit operations, though the heat management limitations of the upgrade prevent sustained offensive use of the full weapons suite. The reduced troop capacity compared to the original, offset by substantially increased general cargo space, has led some commands to employ the upgraded variant as a combined transport and forward logistics vessel rather than as a dedicated assault transport, leveraging its expanded cargo holds to sustain deployed forces over extended campaigns.</p>
 </deployment>
 
 <history>

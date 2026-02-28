@@ -189,9 +189,9 @@ TR:3057r
 8
 </escape_pod>
 
-# Fluff Date: 2026-02-27 18:32:45
+# Fluff Date: 2026-02-28 11:02:26
 <overview>
-<p>The Condor-class DropShip is one of the largest vessels designed specifically for infantry transport, capable of delivering a full battalion of 336 troops along with twenty support vehicles directly onto the battlefield. Entering service in 2801 during the opening years of the First Succession War, the Condor was built as a military aerodyne with unusually robust wing structures that proved far less susceptible to control surface damage than those of comparable designs. The vessel earned a strong reputation among infantry commanders for its spacious troop accommodations, well-equipped medical facilities, and substantial cargo capacity, making it one of the most valued dedicated infantry transports in the Inner Sphere. Its distinctive broad-winged silhouette became a familiar sight above contested landing zones throughout the Succession Wars and beyond.</p>
+<p>The Condor-class DropShip is one of the largest vessels designed specifically for infantry transport, capable of delivering a full battalion of 336 troops along with twenty light support vehicles directly onto the battlefield. Entering service in 2801 during the opening years of the First Succession War, the Condor was built as a military aerodyne with unusually robust wing structures that proved far less susceptible to control surface damage than those of comparable designs. The vessel earned a strong reputation among infantry commanders for its spacious troop accommodations, well-equipped onboard medical facilities, and substantial cargo capacity, making it one of the most valued dedicated infantry transports in the Inner Sphere. Its distinctive broad-winged silhouette became a familiar sight above contested landing zones throughout the Succession Wars and beyond, and the design has since spawned both a hospital ship conversion and a civilian cargo variant, testament to the fundamental soundness of the original airframe.</p>
 </overview>
 
 <capabilities>
@@ -199,7 +199,7 @@ TR:3057r
 </capabilities>
 
 <deployment>
-<p>Approximately two dozen Dove hospital ship conversions are known to exist, with ComStar operating the largest fleet of twelve vessels. The remaining Doves are distributed among the various Successor State navies, where they serve as mobile surgical hospitals deployed to major conflict zones. The conversions were primarily undertaken following the Fourth Succession War, when the scale of casualties demonstrated the need for dedicated medical transport vessels capable of performing complex surgeries in the field.</p>
+<p>Approximately two dozen Dove hospital ship conversions are known to exist, with ComStar operating the largest fleet of twelve vessels. The remaining Doves are distributed among the various Successor State navies, where they serve as mobile surgical hospitals deployed to major conflict zones and humanitarian crisis areas. The conversions were primarily undertaken following the Fourth Succession War, when the scale of casualties demonstrated the critical need for dedicated medical transport vessels capable of performing complex surgeries in the field rather than relying on overloaded ground-based facilities. These mobile surgical platforms have since proven their worth in every subsequent major conflict.</p>
 </deployment>
 
 <history>

@@ -193,9 +193,9 @@ TR:3057r
 25
 </escape_pod>
 
-# Fluff Date: 2026-02-27 18:32:45
+# Fluff Date: 2026-02-28 11:02:26
 <overview>
-<p>The Excalibur-class DropShip is the largest military transport in common service among the Successor State militaries, capable of delivering a complete combined-arms regiment comprising two vehicle battalions, an infantry battalion, and a BattleMech company. Entering service in 2786 at the onset of the First Succession War, the Excalibur was selected as the replacement for the massive Colossus-class following the devastating losses of the Amaris Civil War, offering comparable transport capacity at significantly lower production cost. Despite this relative affordability, the vessel remains expensive enough that only Great House militaries, major mercenary commands, and large transport corporations have historically been able to operate them, ensuring the Excalibur's presence marks any deployment as a major military undertaking.</p>
+<p>The Excalibur-class DropShip is the largest military transport in common service among the Successor State militaries, a massive spheroid vessel capable of delivering a complete combined-arms regiment comprising two vehicle battalions, an infantry battalion, and a BattleMech company in a single planetary deployment. Entering service in 2786 at the onset of the First Succession War, the Excalibur was selected as the replacement for the even larger Colossus-class following the devastating losses of the Amaris Civil War, offering comparable transport capacity at significantly lower production cost. Despite this relative affordability, the vessel remains expensive enough that only Great House militaries, major mercenary commands, and large transport corporations such as Akira Transport have historically been able to operate them, ensuring the Excalibur's presence on any battlefield marks the commitment as a major military undertaking of the very highest strategic significance.</p>
 </overview>
 
 <capabilities>
@@ -203,7 +203,7 @@ TR:3057r
 </capabilities>
 
 <deployment>
-<p>The original Excalibur serves as the heavy transport backbone of every Successor State military, deployed whenever a planetary assault requires the commitment of a full combined-arms regiment. The vessel's slow unloading sequence limits it to operations where landing zones have been secured in advance, and it is typically among the last craft to enter an assault area. Once its forces are deployed, the Excalibur continues to serve as a logistics hub, ferrying supplies in support of ongoing combat operations. The Draconis Combine has historically maintained one of the largest Excalibur fleets among the Successor States.</p>
+<p>The original Excalibur serves as the heavy transport backbone of every Successor State military, deployed whenever a planetary assault requires the commitment of a full combined-arms regiment. The vessel's slow unloading sequence limits it to operations where landing zones have been thoroughly secured in advance, and it is typically among the last craft to enter an assault area after forward elements have neutralized immediate threats. Once its forces have been deployed, the Excalibur continues to serve as a forward logistics hub, ferrying supplies in support of ongoing combat operations. The Draconis Combine has historically maintained one of the largest Excalibur fleets among the Successor States, a factor that drove Kurita's efforts to develop an alternative drive system.</p>
 </deployment>
 
 <history>

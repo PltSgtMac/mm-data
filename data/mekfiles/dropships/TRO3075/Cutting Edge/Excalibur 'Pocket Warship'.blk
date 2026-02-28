@@ -254,9 +254,9 @@ TR:3075
 25
 </escape_pod>
 
-# Fluff Date: 2026-02-27 18:32:45
+# Fluff Date: 2026-02-28 11:02:26
 <overview>
-<p>The Excalibur-class DropShip is the largest military transport in common service among the Successor State militaries, capable of delivering a complete combined-arms regiment comprising two vehicle battalions, an infantry battalion, and a BattleMech company. Entering service in 2786 at the onset of the First Succession War, the Excalibur was selected as the replacement for the massive Colossus-class following the devastating losses of the Amaris Civil War, offering comparable transport capacity at significantly lower production cost. Despite this relative affordability, the vessel remains expensive enough that only Great House militaries, major mercenary commands, and large transport corporations have historically been able to operate them, ensuring the Excalibur's presence marks any deployment as a major military undertaking.</p>
+<p>The Excalibur-class DropShip is the largest military transport in common service among the Successor State militaries, a massive spheroid vessel capable of delivering a complete combined-arms regiment comprising two vehicle battalions, an infantry battalion, and a BattleMech company in a single planetary deployment. Entering service in 2786 at the onset of the First Succession War, the Excalibur was selected as the replacement for the even larger Colossus-class following the devastating losses of the Amaris Civil War, offering comparable transport capacity at significantly lower production cost. Despite this relative affordability, the vessel remains expensive enough that only Great House militaries, major mercenary commands, and large transport corporations such as Akira Transport have historically been able to operate them, ensuring the Excalibur's presence on any battlefield marks the commitment as a major military undertaking of the very highest strategic significance.</p>
 </overview>
 
 <capabilities>
@@ -264,7 +264,7 @@ TR:3075
 </capabilities>
 
 <deployment>
-<p>The Pocket WarShip conversion has been produced by Federated-Boeing Interstellar and deployed primarily by the Draconis Combine Mustered Soldiery. These vessels serve as capital-grade combatants in naval task forces, providing massed missile fire support against WarShip-class targets. The conversion's genesis through coercion and blackmail gave the project a controversial reputation, but the resulting vessels have proven their worth in the naval engagements of the late thirty-first century and the Jihad era.</p>
+<p>The Pocket WarShip conversion has been produced by Federated-Boeing Interstellar and deployed primarily by the Draconis Combine Mustered Soldiery as part of naval task forces operating in contested space. These vessels serve as capital-grade combatants, providing massed missile fire support against WarShip-class targets that would otherwise require the commitment of increasingly rare true WarShips. The conversion's controversial genesis through coercion and political manipulation gave the program a troubled reputation, but the resulting vessels proved their tactical value in the naval engagements of the late thirty-first century and throughout the devastating Jihad.</p>
 </deployment>
 
 <history>
