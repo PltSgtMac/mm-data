@@ -141,7 +141,7 @@ TR:3060
 6.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Hydra is a six-ton first-generation ProtoMek designed by Clan Smoke Jaguar as a medium assault platform within the original ProtoMek program on Huntress. Occupying the weight class between the versatile five-ton Centaur and the heavier Roc, the Hydra centers its firepower around a Streak SRM-3 launcher backed by a Micro Pulse Laser, giving it significant hitting power at short to medium range. The design lacks jump capability and carries moderate armor, trading mobility for raw combat effectiveness. In the combined-arms ProtoMek doctrine developed by the Jaguars, the Hydra was intended to serve as the primary engagement platform, closing with enemies identified by lighter scouts and delivering concentrated missile and energy fire.</p>
 </overview>
@@ -159,11 +159,11 @@ TR:3060
 </history>
 
 <manufacturer>
-Unknown
+Reserve Industriplex-2
 </manufacturer>
 
 <primaryFactory>
-Unknown
+York
 </primaryFactory>
 
 <systemManufacturers>

@@ -149,7 +149,7 @@ TR:3055U
 70.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Jagatai is a seventy-ton Clan heavy OmniFighter designed and produced by Wolf Armorworks on the Clan world of Eden. Prototyped in 3016 and entering full-scale production three years later, the design was commissioned to fill Clan Wolf's need for a versatile air-superiority platform capable of sustained frontline operations. The Jagatai has since spread throughout most Clan toumans, earning a strong reputation as a dependable and well-protected heavy fighter suited to a wide range of aerospace combat roles. The Ghost Bears represent the primary exception to this widespread adoption, as they have traditionally preferred the heavier Jengiz in the air-superiority role.</p>
 </overview>
@@ -167,11 +167,11 @@ TR:3055U
 </history>
 
 <manufacturer>
-Wolf Armorworks
+Wolf Armor Works, Aerospace Plant CM-T72673, WC Aerospace Annex, DS Aero Assembly Site Alpha, Kindraa Payne-Beyl-Grant Main Production Facility, Mercer Foundries, Sheridan LA-TF7
 </manufacturer>
 
 <primaryFactory>
-Eden
+Eden (Abaddon) (Wolf Armor Works), Marshall (Waushaura) (Aerospace Plant CM-T72673), Arc-Royal (WC Aerospace Annex), Babylon (Callandra) (DS Aero Assembly Site Alpha), Shadow (Kindraa Payne-Beyl-Grant Main Production Facility), New Kent (Celebes) (Mercer Foundries), Sheridan (Sheridan LA-TF7)
 </primaryFactory>
 
 <systemManufacturers>

@@ -278,7 +278,7 @@ JHS:Terra
 0
 </escape_pod>
 
-# Fluff Date: 2026-02-27 17:25:35
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Drake is a Word of Blake orbital control station developed as the command node for the Maginot Line's automated defense network. A substantial modification of the Terran Hegemony's Gatekeeper traffic control stations, it combines the Gatekeeper's proven long-range communications architecture with reinforced armor, upgraded weapons, and sophisticated drone control systems. Introduced in 3071 and manufactured at the O'Neil Yards' Titan Yards section on Terra, each Drake served as the nerve center coordinating a network of Caspar II drones, drone fighters, and ground-based platforms defending a Maginot world. Though modest in size for an orbital platform, the Drake's command and control capabilities made it disproportionately dangerous as the apex node of an integrated layered defense, capable of directing autonomous weapons across a wide orbital envelope while withstanding casual attack from its own defensive armament.</p>
 </overview>
@@ -296,7 +296,7 @@ JHS:Terra
 </history>
 
 <manufacturer>
-Word of Blake (O'Neil Yards - Titan Yards)
+O'Neil Yards - Titan Yards
 </manufacturer>
 
 <primaryFactory>

@@ -208,7 +208,7 @@ XTR:Primitives III
 5
 </escape_pod>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Leviathan was an ambitious "super-transport" designed by Lockheed Galactic to capitalize on the revolutionary docking collar technology pioneered by Blue Nose Interstellar. Aimed at the high-end commercial market, it was built to be more efficient and much larger than its contemporaries. While it was a masterpiece of logistics and crew comfort, its design eventually became a liability due to significant security flaws that made it a prime target for hijackers. Regardless, the design was an examplary of its class for a century of spacefaring.</p>
 </overview>
@@ -222,10 +222,10 @@ XTR:Primitives III
 </history>
 
 <manufacturer>
-Lockheed Galactic
+Lockheed Galactic, Thompson's Shipyards
 </manufacturer>
 
 <primaryFactory>
-Thorin
+Thorin (Lockheed Galactic), Keid (Thompson's Shipyards)
 </primaryFactory>
 

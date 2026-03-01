@@ -237,7 +237,7 @@ HB:HL
 40
 </escape_pod>
 
-# Fluff Date: 2026-02-27 16:55:34
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Crucible Station is the most secure intelligence and detention facility operated by the Maskirovka, the Capellan Confederation's feared internal and external intelligence service. Commissioned in 3065 and placed in isolated orbit around Nuwa, one of Sian's moons, this 6,000-ton space station was designed from the outset to exploit the vacuum of space as its primary perimeter. The facility serves as the Maskirovka's most modern interrogation center, housing individuals deemed too sensitive or too dangerous for any conventional planetary prison. Its existence is suspected by rival intelligence agencies throughout the Inner Sphere, but its precise location is not publicly documented, and the Confederation has never officially acknowledged the station's presence. No prisoner assigned to Crucible Station has ever been confirmed to have departed the facility.</p>
 </overview>
@@ -259,7 +259,7 @@ Unknown
 </manufacturer>
 
 <primaryFactory>
-Sian (Nuwa orbit)
+Sian
 </primaryFactory>
 
 <systemManufacturers>

@@ -129,7 +129,7 @@ XTR:Liao
 65.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Troika is a sixty-five-ton medium aerospace fighter developed through the industrial cooperation of the Trinity Alliance, the political and military pact linking the Taurian Concordat, the Magistracy of Canopus, and the Capellan Confederation. Brought into existence at the Detroit Consolidated AeroSpace facility on Detroit during the early 3060s, it represents a genuine technological achievement for the Periphery states — a modern fighter incorporating the latest Inner Sphere advances in propulsion, protection, and weapons systems. The Trinity Alliance designed the Troika to serve as a capable all-aspect fighter for forces that had long relied on aging Succession Wars-era designs, and the result met that requirement. Though contractual obligations initially directed production toward the Concordat, the bulk of the fighter's service has been with the Magistracy of Canopus and later the Capellan Confederation, which ultimately absorbed responsibility for its ongoing development and production.</p>
 </overview>
@@ -147,11 +147,11 @@ XTR:Liao
 </history>
 
 <manufacturer>
-Field Refit
+Refit
 </manufacturer>
 
 <primaryFactory>
-Field Refit
+Various
 </primaryFactory>
 
 <systemManufacturers>

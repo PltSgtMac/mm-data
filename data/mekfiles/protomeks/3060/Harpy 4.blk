@@ -137,7 +137,7 @@ TR:3060
 2.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Harpy is a two-ton first-generation ProtoMek developed by Clan Smoke Jaguar as part of the original ProtoMek program on Huntress. The lightest design to emerge from the program, the Harpy blurs the line between battle armor and true combat walker, standing barely taller than an Elemental in powered armor. Despite its diminutive stature, the Harpy mounts a ballistic weapon and three jump jets that grant it remarkable tactical agility for its weight class. Intended primarily for anti-infantry operations and close-range ambush tactics, the Harpy relies on its small profile and jumping ability rather than armor protection or raw firepower to survive on the battlefield.</p>
 </overview>
@@ -155,11 +155,11 @@ TR:3060
 </history>
 
 <manufacturer>
-Unknown
+Industriplex Upsilon
 </manufacturer>
 
 <primaryFactory>
-Unknown
+Niles
 </primaryFactory>
 
 <systemManufacturers>

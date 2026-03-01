@@ -131,7 +131,7 @@ TR:3055U
 30.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Vandal is a thirty-ton Clan OmniFighter developed in 2941 by Clan Ice Hellion, conceived from the outset as a high-speed scout and pursuit craft rather than a front-line combatant. Its exceptional agility distinguishes it from heavier fighters of comparable cost, though its limited weapons payload means most Clan commanders assign it to reconnaissance and rear-echelon screening duties rather than direct combat. Every Clan maintains Vandals for fast scouting work, and the design has spread widely through salvage and Trials since its introduction. The years following the Great Refusal gave the craft renewed relevance, particularly among the home Clans, who recognized it as an economical platform for power projection. Clan Hell's Horses became its most committed later-era patron, investing in new production capacity to sustain the type through the Dark Age.</p>
 </overview>
@@ -149,11 +149,11 @@ TR:3055U
 </history>
 
 <manufacturer>
-Various
+Yoma Aerospace Plant, Csesztreg Industriplex Delta
 </manufacturer>
 
 <primaryFactory>
-Various
+Babylon (Corsen) (Yoma Aerospace Plant), Csesztreg (Csesztreg Industriplex Delta)
 </primaryFactory>
 
 <systemManufacturers>

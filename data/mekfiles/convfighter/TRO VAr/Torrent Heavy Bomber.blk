@@ -171,7 +171,7 @@ TR:VAr
 200.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>As humanity moved across the stars in a massive wave of colonization, it carried the familiar tools of war. While spacefaring technology experienced a renaissance after the success of the Kearny-Fuchida interstellar jump drive, military breakthroughs were slower to come. Thus, many newly founded colonies carried military gear borrowed from their founding Terran Alliance member-state for protection. Usually included in that mix was at least a squadron of Torrent heavy bombers, one of the most popular designs with the United States of North America Air Force in the late twenty-first century and commonly pawned off on colonies in the twenty-second and twenty-third centuries as surplus equipment.</p>
 </overview>
@@ -189,11 +189,11 @@ TR:VAr
 </history>
 
 <manufacturer>
-Various
+Mujika Aerospace Technologies, Unknown, Various
 </manufacturer>
 
 <primaryFactory>
-Various
+Bellatrix (Mujika Aerospace Technologies), Terra (Unknown), Various (Various)
 </primaryFactory>
 
 <systemManufacturers>

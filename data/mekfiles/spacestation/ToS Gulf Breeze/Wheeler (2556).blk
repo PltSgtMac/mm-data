@@ -220,7 +220,7 @@ TtS:Gulf
 0
 </escape_pod>
 
-# Fluff Date: 2026-02-27 18:32:45
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Wheeler-class station is Gulf Breeze Six's defining contribution to civilian orbital infrastructure — a standardized habitat platform developed in 2556 to house the workforce needed for the system's extensive asteroid mining operations. Built at CMC's Spider shipyard in Gulf Breeze Six's orbit, these 200,000-ton wheel-shaped stations were designed from the outset for long-duration habitation rather than industrial function, providing the terrestrial living conditions that sustained worker productivity over the weeks-long recovery periods required between mining deployments. Though originally designated Stanford-class habitats by their engineers, the workers who first saw their construction plans nicknamed them 'Wheel stations' and then 'Wheelers,' a name that quickly replaced the official designation. Across five centuries of continuous production, the Wheeler has remained the backbone of Gulf Breeze Six's workforce housing.</p>
 </overview>
@@ -238,11 +238,11 @@ TtS:Gulf
 </history>
 
 <manufacturer>
-Gulf Breeze Mining Union (Formerly CMC)
+Gulf Breeze Mining Union Spider (Formerly CMC)
 </manufacturer>
 
 <primaryFactory>
-Spider Shipyard, Gulf Breeze
+Gulf Breeze
 </primaryFactory>
 
 <systemManufacturers>

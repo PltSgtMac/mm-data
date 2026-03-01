@@ -137,7 +137,7 @@ TR:3075
 90.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>Developed by CBM Aerospace of Donegal and introduced in 2461, the Typhoon was the Lyran Commonwealth's premier heavy ground attack aerospace fighter of the pre–Star League era. Built around a distinctive flying-wing airframe engineered for excellent glide characteristics and broad hardpoint coverage, the design was conceived as a dedicated close air support platform capable of delivering sustained fire against fortified ground positions and armored formations. Its respectable thrust output also gave it enough agility for limited dogfighting engagements alongside its primary ground attack mission, making it a versatile platform across a range of aerospace wing assignments.</p><p>The Typhoon offered commanders a purpose-built heavy striker at a time when most available aerospace designs were compromises between competing roles. Despite an ultimately modest production run, it left a notable impression on Lyran aerospace doctrine, remaining a recognizable symbol of the Commonwealth's pre–Star League aerospace ambitions. Its demanding heat management requirements were a persistent challenge, but experienced crews who mastered the aircraft's characteristics found it a formidable strike platform.</p>
 </overview>
@@ -155,11 +155,11 @@ TR:3075
 </history>
 
 <manufacturer>
-CBM Aerospace
+CBM Aerospace, Lockheed/CBM Corp.
 </manufacturer>
 
 <primaryFactory>
-Donegal
+Donegal (CBM Aerospace), Donegal (Lockheed/CBM Corp.)
 </primaryFactory>
 
 <systemManufacturers>

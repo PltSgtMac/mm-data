@@ -130,7 +130,7 @@ TR:3039
 10.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>Although BattleMeks and aerospace fighters tend to dominate the battlefields of land, air, and space, conventional fighters have formed the backbone of air defense for far more worlds in the Inner Sphere than most armchair generals credit. With so many worlds possessing the industrial capacity to produce their own conventional fighters, the variety of these craft is quite impressive, with a few universal standards set by the likes of the Guardian, the Mekbuster, and the Boeing Jump Bomber. The Angel Strike Fighter, a Star League-era introduction from the Free Worlds League produced by Andurien Aerotek on Lopez, is another example of a conventional fighter that has become a household name across the Inner Sphere.</p>
 </overview>
@@ -146,6 +146,14 @@ TR:3039
 <history>
 <p>Over the centuries there have been many variations on the Angel's basic design, most altering the craft's weapons load or experimenting with less expensive turbine engines. Among the most successful is the slower-moving Kurita-made Suzume ("Sparrow"), which trades the Hermes 100 for a Shinobi 70 Turbine, swaps out the SRM for a LongFire V LRM 5, and adds fifty percent more armor to the fighter's wings. The Lyran-made variant dubbed the Owl II retains the fusion engine but exchanges the SRM for a nose-mounted medium laser, two wing-mounted small lasers, and an extra ton of fuel for greater operating range.</p><p>During the FedCom Civil War, the Shipil Company on Skye unveiled the improved Owl III, which replaces the Owl II's lasers with two extended-range medium lasers on the nose. Meanwhile, Andurien Aerotek unveiled its own take on the Owl's laser configuration, taking a more radical approach by downgrading the fusion engine to an AeroOmni 70, adding a ton of additional fuel, and trading the SRM for nose-mounted medium and small pulse lasers with an extra extended-range small laser mounted on the tail to deter pursuers. This Andurien upgrade demonstrated the ongoing tension between the Angel's fusion-powered heritage and the economic realities of maintaining such engines on garrison worlds with limited industrial capacity.</p>
 </history>
+
+<manufacturer>
+Andurien AeroTech (A Division of Free Worlds Defense Industries), Caletra Fighters, Majesty Metals and Manufacturing, United Outworlders Corporation
+</manufacturer>
+
+<primaryFactory>
+Lopez (Andurien AeroTech (A Division of Free Worlds Defense Industries)), Westover (Andurien AeroTech (A Division of Free Worlds Defense Industries)), Terra (Caletra Fighters), Dunianshire (Majesty Metals and Manufacturing), Ramora (United Outworlders Corporation)
+</primaryFactory>
 
 <systemManufacturers>
 CHASSIS:Andurien

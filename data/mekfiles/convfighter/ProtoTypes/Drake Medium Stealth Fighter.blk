@@ -146,7 +146,7 @@ TR:Proto
 35.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Drake Medium Stealth Fighter represents the production evolution of Basantapur Fine Metals' experimental Strike variant that debuted at the Matarn air show on Colorado. Where the prototype relied on imported modular armor to achieve its remarkable protection, the production Drake was designed from the outset around BFM's in-house stealth armor manufacturing capability, licensed from Krupp Armament Works for local production. By dropping the expensive modular armor panels and refining the weapons suite, BFM produced a thirty-five-ton conventional fighter that could be manufactured economically at scale while retaining the signature-masking capabilities that had made the prototype so exceptionally difficult to engage in combat trials.</p>
 </overview>
@@ -164,11 +164,11 @@ TR:Proto
 </history>
 
 <manufacturer>
-Basantapur Fine Metals
+Basantapur Fine Metals, Refit - Basantapur Fine Metals Aerospace Range
 </manufacturer>
 
 <primaryFactory>
-Colorado
+Colorado (Basantapur Fine Metals), Colorado (Refit - Basantapur Fine Metals Aerospace Range)
 </primaryFactory>
 
 <systemManufacturers>

@@ -134,7 +134,7 @@ TR:3067
 40.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 20:23:30
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Issus is one of the most widely distributed second-line aerospace fighters in the Clan toumans, originally developed by Clan Snow Raven as the Stooping Raven during the early years of the Golden Century. Entering service in 2842, the design was later renamed as part of ilKhan Victoria Ward's Uniform Designation Protocols. Built around a conventional 240-rated fusion engine rather than the more powerful but expensive powerplants found in front-line designs, the Issus offers a cost-effective balance of speed, firepower, and logistical simplicity that has drawn operators across all of Clan space. Its signature ferro-aluminum armor and its electronics — communications and targeting systems developed through Snow Raven manufacturing lines — reflect the design's Raven origins even as it spread far beyond its home Clan.</p>
 </overview>
@@ -152,11 +152,11 @@ TR:3067
 </history>
 
 <manufacturer>
-Various
+Crest Foundries
 </manufacturer>
 
 <primaryFactory>
-Various
+Lum
 </primaryFactory>
 
 <systemManufacturers>

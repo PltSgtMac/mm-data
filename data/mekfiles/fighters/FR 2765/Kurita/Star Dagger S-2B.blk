@@ -127,7 +127,7 @@ FR:2765-DCMS
 30.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Star Dagger began its service life as a Terran Hegemony design in the early twenty-fourth century, when the Star League Defense Force sold the fighter to the Draconis Combine as part of a general fleet upgrade. Inexpensive to produce and maintain, the compact light fighter served the DCMS as its primary aerospace asset for generations, fielding in large numbers to compensate for what it lacked in individual capability. When the Sabre entered service the Star Dagger's role as a frontline design began its slow erosion, and the subsequent arrival of the Sholagar in the twenty-ninth century effectively ended its operational life across the Inner Sphere.</p><p>The design might have faded entirely from active service had the Jihad not created desperate demand for any craft capable of flying. The Protectorate Defense Conglomerate, formerly the Concordat Defense Conglomerate, recognized the opportunity and revived production from its facility on Diik in 3077, selling the ancient type broadly without obtaining a license from the Draconis Combine.</p>
 </overview>
@@ -145,11 +145,11 @@ FR:2765-DCMS
 </history>
 
 <manufacturer>
-Wakazashi Enterprises
+Protectorate Arms Conglomerate (Formerly Protectorate Defense Conglomerate), Wakazashi Enterprises
 </manufacturer>
 
 <primaryFactory>
-Chatham
+Diik (Protectorate Arms Conglomerate (Formerly Protectorate Defense Conglomerate)), Chatham (Wakazashi Enterprises)
 </primaryFactory>
 
 <systemManufacturers>

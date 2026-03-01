@@ -132,7 +132,7 @@ TR:3075
 75.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Hammerhead is among the longest-serving aerospace fighter designs in human history, with roots stretching back to the earliest days of interstellar conflict. Commissioned by Boeing Interstellar on Terra, the original prototype first flew in 2402 and entered production five years later for the Terran Hegemony. Designed as a heavy ground-based defensive fighter, the Hammerhead was intended for planetary defense and jump point patrol duties. The craft's distinctive wide-nosed profile and devastating forward-mounted weaponry earned it a fearsome reputation, particularly among DropShip captains who learned to dread engaging squadrons of these heavy fighters. At seventy-five tons, the Hammerhead combines impressive firepower with surprising acceleration for its mass, a combination that has kept the design relevant across centuries of service through periodic upgrades and modernization efforts.</p>
 </overview>
@@ -150,11 +150,11 @@ TR:3075
 </history>
 
 <manufacturer>
-Boeing Interstellar
+Boeing Interstellar, Refit
 </manufacturer>
 
 <primaryFactory>
-Terra
+Terra (Boeing Interstellar), Various (Refit)
 </primaryFactory>
 
 <systemManufacturers>

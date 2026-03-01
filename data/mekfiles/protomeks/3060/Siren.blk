@@ -134,7 +134,7 @@ TR:3060
 3.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Siren is a three-ton first-generation ProtoMek designed by Clan Smoke Jaguar as the fastest ground unit in the original ProtoMek program. Built around an oversized forty-five-rated fusion engine that accounts for a third of the machine total mass, the Siren achieves a cruising speed of one hundred and eight kilometers per hour, outpacing virtually every ground-based combat unit short of a hovercraft. This extraordinary speed comes at the cost of nearly everything else: the Siren carries only minimal armor and a pair of light machine guns, making it almost useless in direct combat against anything heavier than conventional infantry. Its intended role as a forward scout and spotter for heavier ProtoMek formations leverages its one overwhelming advantage to compensate for its many limitations.</p>
 </overview>
@@ -152,11 +152,11 @@ TR:3060
 </history>
 
 <manufacturer>
-Abysmal Manufacturing Complex
+Unknown, Yoma Aerospace Plant
 </manufacturer>
 
 <primaryFactory>
-Huntress (Abysmal)
+Huntress (Abysmal) (Unknown), Babylon (Corsen) (Yoma Aerospace Plant)
 </primaryFactory>
 
 <systemManufacturers>

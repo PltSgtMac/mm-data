@@ -142,7 +142,7 @@ TR:Proto
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Planetlifter Tactical Support Aircraft was Imstar Aerospace's refined evolution of their earlier combat Planetlifter concept. Where the original Support variant attempted to combine artillery firepower with a broad tactical oversight role in a single platform, the Tactical Support version accepted a reduced missile magazine in exchange for enhanced command and control capabilities. The addition of a cockpit command console created an operational profile that complemented the Arrow IV battery rather than conflicting with it, as both roles required the aircraft to operate behind the front lines under conditions of friendly aerospace superiority, creating no new vulnerabilities beyond those already inherent in the design.</p>
 </overview>
@@ -160,7 +160,7 @@ TR:Proto
 </history>
 
 <manufacturer>
-Imstar Aerospace
+Imstar AeroSpace
 </manufacturer>
 
 <primaryFactory>

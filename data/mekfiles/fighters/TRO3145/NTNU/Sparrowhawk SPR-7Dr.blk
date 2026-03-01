@@ -125,7 +125,7 @@ RS:3145-NTNU
 30.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Sparrowhawk is a thirty-ton light aerospace fighter that entered service with the Terran Hegemony in 2520 as an escort for heavier attack craft and assault DropShips. Designed for high thrust and combat persistence, the fighter excels in the interceptor role, relying on an all-energy weapons arrangement that eliminates ammunition dependency across extended engagements. A distinctive feature of the design is its manually operated armor ejection system, which allows pilots to jettison badly damaged armor plates that might otherwise compromise atmospheric reentry. The fighter's communications suite earned a reputation as among the most reliable in its class, and its overall performance made it a natural export across the Star League and into the Periphery. Subsequent improvements resolved dangerous early production flaws, and the Sparrowhawk went on to serve virtually every major power in the Inner Sphere as a durable and adaptable design.</p>
 </overview>
@@ -143,7 +143,7 @@ RS:3145-NTNU
 </history>
 
 <manufacturer>
-Field Refit
+Refit - Field
 </manufacturer>
 
 <primaryFactory>

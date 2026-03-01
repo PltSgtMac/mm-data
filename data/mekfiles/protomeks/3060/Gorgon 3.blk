@@ -134,7 +134,7 @@ TR:3060
 8.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Gorgon is an eight-ton first-generation ProtoMek developed by Clan Smoke Jaguar as a heavy fire support platform within the original ProtoMek program on Huntress. Anchoring the heavier end of the ProtoMek weight spectrum alongside the nine-ton Minotaur, the Gorgon is built around a ten-tube LRM launcher that gives it bombardment capability unprecedented for a unit of its size. The LRM-10 is so large relative to the ProtoMek chassis that Jaguar scientists developed the main gun mount specifically to accommodate it, creating a hand-supported weapon system anchored to the torso that became standard on several subsequent ProtoMek designs. The Gorgon served as the long-range anchor of mixed ProtoMek formations, delivering indirect fire support that could suppress or destroy targets well beyond the engagement range of lighter designs.</p>
 </overview>
@@ -152,11 +152,11 @@ TR:3060
 </history>
 
 <manufacturer>
-Unknown
+Aeroyard Gargain, Complex 18
 </manufacturer>
 
 <primaryFactory>
-Unknown
+Bearclaw (Aeroyard Gargain), Albion (Junction City) (Complex 18)
 </primaryFactory>
 
 <systemManufacturers>

@@ -135,7 +135,7 @@ TR:3075
 6.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Chrysaor is a six-ton second-generation ProtoMek jointly developed by Clan Blood Spirit and Clan Snow Raven. Originally intended to be the first product of their ProtoMek collaboration, engineering challenges delayed the Chrysaor's introduction until after the lighter Cecerops had already reached the field. Its first battlefield appearance on Arcadia was controversial, with a Star Colonel's misuse of the design nearly dooming its acceptance among the already-skeptical Blood Spirit warrior caste. Only a dramatic Trial of Grievance by a Chrysaor pilot against the offending commander salvaged the design's reputation and demonstrated its true capabilities.</p>
 </overview>
@@ -153,11 +153,11 @@ TR:3075
 </history>
 
 <manufacturer>
-CBS Reserve Industriplex-2, CSR Aeroyard Gargain
+Aeroyard Gargain, Complex 18, Reserve Industriplex-2, Reserve Industriplex-3
 </manufacturer>
 
 <primaryFactory>
-York, Bearclaw
+Bearclaw (Aeroyard Gargain), Albion (Junction City) (Complex 18), York (Reserve Industriplex-2), Honor (Colleen) (Reserve Industriplex-3)
 </primaryFactory>
 
 <systemManufacturers>

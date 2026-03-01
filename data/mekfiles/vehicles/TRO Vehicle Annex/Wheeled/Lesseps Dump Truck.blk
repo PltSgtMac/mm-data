@@ -125,7 +125,7 @@ TR:VAr
 4.0
 </fuel>
 
-# Fluff Date: 2026-02-28 15:04:05
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Lesseps Dump Truck is a medium wheeled support vehicle produced by Earthwerks Incorporated, introduced in 2523 to serve the construction and mining industries across the Inner Sphere. At fifty tons, the Lesseps occupies a far more accessible market segment than heavier industrial vehicles, offering sufficient cargo capacity and off-road capability for typical construction operations at a price point that keeps it common across industrial sites throughout settled space. Earthwerks distributes the Lesseps through a network of production facilities scattered across the Inner Sphere, and the design has been a staple of planetary construction and mining firms since its introduction, despite a commercial reputation that has not always been kind to its manufacturer.</p>
 </overview>
@@ -143,11 +143,11 @@ TR:VAr
 </history>
 
 <manufacturer>
-Earthwerks Incorporated
+Achernar Heavy Industries, Earthwerks Incorporated
 </manufacturer>
 
 <primaryFactory>
-Multiple (Inner Sphere-wide)
+Achernar (Achernar Heavy Industries), Unknown (Earthwerks Incorporated)
 </primaryFactory>
 
 <systemManufacturers>

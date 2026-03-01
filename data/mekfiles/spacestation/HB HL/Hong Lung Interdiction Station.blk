@@ -256,7 +256,7 @@ HB:HL
 8
 </escape_pod>
 
-# Fluff Date: 2026-02-27 17:25:35
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Hong Lung Interdiction Station is a compact orbital defense platform commissioned by the Capellan Confederation in 3024, purpose-built to prevent prisoner escapes from the penal moon of Brazen Heart in the Brighton system. Developed by the Capellan Science Foundation for a very specific tactical requirement, the design prioritizes threat neutralization and vessel capture over sustained combat endurance. At 2,000 tons and roughly 60 meters in diameter, the Hong Lung is among the smallest purpose-built space stations documented in the Inner Sphere, yet its symmetrical armament and dedicated marine boarding capability make it a credible threat to any civilian or lightly armed vessel regardless of approach angle. Every aspect of the station's design reflects its original mission: stopping ships, not destroying them, and ensuring the return of unauthorized escapees to custody.</p>
 </overview>
@@ -274,11 +274,11 @@ HB:HL
 </history>
 
 <manufacturer>
-Capellan Science Foundation
+Unknown
 </manufacturer>
 
 <primaryFactory>
-Brazen Heart, Brighton
+Brighton
 </primaryFactory>
 
 <systemManufacturers>

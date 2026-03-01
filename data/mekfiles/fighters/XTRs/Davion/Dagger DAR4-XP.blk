@@ -132,7 +132,7 @@ XTR:Davion
 45.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The DAR4-XP is an experimental hybrid refit of the Dagger OmniFighter, developed at Johnston Industries' auxiliary field on New Syrtis during the closing years of the Jihad. Representing a significant departure from the standard DARO-1 production model, the XP variant abandons OmniPod flexibility in favor of a fixed weapons configuration paired with a substantially upgraded powerplant. The project emerged from Johnston's ongoing efforts to design improved variants of the Dagger even as the company actively produced and marketed the standard OmniFighter configurations. Interest in the upgraded model ran high throughout the Federated Suns following reports of its combat performance, though the design still required additional refinement before it could be accepted for general service with the AFFS.</p>
 </overview>
@@ -150,11 +150,11 @@ XTR:Davion
 </history>
 
 <manufacturer>
-Johnston Industries (Refit)
+Refit - Johnston Auxiliary Field
 </manufacturer>
 
 <primaryFactory>
-New Syrtis (Johnston Auxiliary Field)
+New Syrtis
 </primaryFactory>
 
 <systemManufacturers>

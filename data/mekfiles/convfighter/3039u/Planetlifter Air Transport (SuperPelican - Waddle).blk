@@ -140,7 +140,7 @@ TR:3039
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Planetlifter is a conventional rough-field military transport aircraft manufactured by Imstar Aerospace on Marik, and a typical example of the heavy-lift planes used by military outfits across the Inner Sphere. These craft are usually assigned directly to a planetary garrison commander, allowing them to quickly shift combat assets from one battlefield to another. This strategic mobility functions effectively as a force-multiplier, allowing a garrison to be spread out for population control and as a counter to small-unit raids but still able to concentrate quickly to blunt major assaults. Unarmed and lightly armored, the Planetlifter relies on escort fighters and speed to survive in contested airspace.</p>
 </overview>
@@ -158,11 +158,11 @@ TR:3039
 </history>
 
 <manufacturer>
-Federated Boeing Interstellar
+Imstar AeroSpace
 </manufacturer>
 
 <primaryFactory>
-Galax
+Marik
 </primaryFactory>
 
 <systemManufacturers>

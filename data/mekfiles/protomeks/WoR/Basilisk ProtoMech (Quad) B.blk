@@ -134,7 +134,7 @@ WoR
 7.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Basilisk ProtoMek Quad is a seven-ton quadruped variant of the Cloud Cobra Basilisk, developed during the Wars of Reaving to provide a more mobile and stable weapons platform for close-range assault operations. The four-legged chassis trades the bipedal Basilisk's ranged firepower for enhanced ground speed and a built-in melee weapons system augmented by Electric Discharge ProtoMek armor, creating a design uniquely suited to aggressive close-quarters tactics. The quad configuration provides fifty-four kilometers per hour cruising speed, significantly faster than the bipedal variant's forty-three, while maintaining the Basilisk family's reputation for durability and reliability.</p>
 </overview>
@@ -152,11 +152,11 @@ WoR
 </history>
 
 <manufacturer>
-Complex H-6 CCC
+Chiaroscuro Testing Site
 </manufacturer>
 
 <primaryFactory>
-Homer
+Ironhold
 </primaryFactory>
 
 <systemManufacturers>

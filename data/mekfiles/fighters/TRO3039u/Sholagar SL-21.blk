@@ -125,7 +125,7 @@ TR:3039
 35.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Sholagar is a light aerospace fighter developed by Mangon Aeronautics for the Draconis Combine during the early Succession Wars, intended to replace aging designs that had fallen short of the Combine's operational demands. Built around a distinctive circular wing configuration, the design filled a genuine gap in the Draconis Combine Aerospace Service's light fighter inventory with a heavily armed airframe capable of sustained engagements. The fighter excelled in the vacuum of space, where its armament gave it credibility against heavier opponents and made it a valued asset for DropShip escort and patrol duties throughout Combine territory.</p><p>Despite its combat effectiveness in space-based operations, the Sholagar's service history was shaped by persistent concerns about its atmospheric performance, a design limitation that defined the fighter's reputation and ultimately influenced its production timeline. The design survived the collapse of its original manufacturer and continued service under successive production programs for well over a century.</p>
 </overview>
@@ -143,11 +143,11 @@ TR:3039
 </history>
 
 <manufacturer>
-Mangon Aeronautics
+Mangon Aeronautics, Wakazashi Enterprises
 </manufacturer>
 
 <primaryFactory>
-Schuyler
+Schuyler (Mangon Aeronautics), Dover (Wakazashi Enterprises), Schuyler (Wakazashi Enterprises)
 </primaryFactory>
 
 <systemManufacturers>

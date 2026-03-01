@@ -129,7 +129,7 @@ TR:3039
 65.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The SL-17 Shilone is Wakazashi Enterprises' signature medium aerospace fighter, designed to meet the Draconis Combine's urgent need for a capable and resilient interceptor at the dawn of the Succession Wars. Built at Chatham, the Shilone quickly earned a reputation as a genuine overperformer in its weight class, fielding heavy firepower and substantial armor coverage more typical of fighters in heavier tonnage brackets. Nicknamed "The Boomerang" by its pilots for its remarkable habit of returning from even heavily contested engagements, it became a mainstay of the Draconis Combine Aerospace Force, eventually spreading through licensing agreements to the Outworlds Alliance and the Taurian Concordat. Pilots from every nation who have had occasion to fly the Shilone typically come away with a high regard for its combat reliability and well-balanced design.</p>
 </overview>
@@ -147,11 +147,11 @@ TR:3039
 </history>
 
 <manufacturer>
-Wakazashi Enterprises
+Wakazashi Enterprises, United Outworlders Corporation
 </manufacturer>
 
 <primaryFactory>
-Chatham
+Chatham (Wakazashi Enterprises), Ramora (United Outworlders Corporation)
 </primaryFactory>
 
 <systemManufacturers>

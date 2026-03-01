@@ -142,7 +142,7 @@ TR:3075
 100.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The TRB-D36 Thunderbird has stood at the center of Inner Sphere heavy aerospace combat since 2480, when the Lockheed Corporation of Gibbs and CBM Aerospace of Donegal pooled their resources to build a capable assault fighter for the Lyran Commonwealth Armed Forces. Designed from the outset for air-to-ground attack and DropShip escort, the craft's unconventional silhouette earned it unflattering comparisons early in its career, but its durability and straightforward reliability proved far more valuable than aesthetics. The design spread steadily across the Star League as other manufacturers successfully replicated it, ensuring that Thunderbirds entered service with every major power and dozens of minor ones. By the mid-thirty-first century, it remains one of the most recognized heavy fighters in the Inner Sphere, a ubiquitous if increasingly dated presence in aerospace wings from the Lyran Alliance to the Taurian Concordat.</p>
 </overview>
@@ -160,11 +160,11 @@ TR:3075
 </history>
 
 <manufacturer>
-Lockheed/CBM Corporation
+Alliance Aerospace Group, Lockheed/CBM Corp., Refit
 </manufacturer>
 
 <primaryFactory>
-Gibbs
+Marantha (Alliance Aerospace Group), Gibbs (Lockheed/CBM Corp.), Various (Refit)
 </primaryFactory>
 
 <systemManufacturers>

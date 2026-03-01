@@ -182,7 +182,7 @@ TR:3057r
 0
 </escape_pod>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The NL-42 Battle Taxi is a two-hundred-ton boarding transport small craft originally designed by Blackwell Corporation on New Valencia. Introduced in 3053 as the military equivalent of the ubiquitous S-7A shuttle bus, the Battle Taxi was purpose-built for ship-to-ship boarding operations against DropShips, JumpShips, and WarShips. Its combination of speed, heavy armor protection, and generous troop capacity made it an immediate success with naval forces across the Inner Sphere, and the design was quickly licensed to manufacturers in every major Successor State. The craft's straightforward construction and reliable performance earned it a reputation as the standard small craft for marine assault operations, a role it continues to fill decades after its introduction.</p>
 </overview>
@@ -200,11 +200,11 @@ TR:3057r
 </history>
 
 <manufacturer>
-Blackwell Corporation, Andurien AeroTech (FWDI), Earthwerks Ltd., Shipil Company, Tomori Trans Industrial
+Blackwell Corporation, Andurien AeroTech (A Division of Free Worlds Defense Industries), Earthwerks Ltd., Shipil Company, Tomori Trans Industrial
 </manufacturer>
 
 <primaryFactory>
-New Valencia, Westover, Ares, Skye, Chatham
+New Valencia (Blackwell Corporation), Westover (Andurien AeroTech (A Division of Free Worlds Defense Industries)), Ares (Earthwerks Ltd.), Skye (Shipil Company), Chatham (Tomori Trans Industrial)
 </primaryFactory>
 
 <systemManufacturers>

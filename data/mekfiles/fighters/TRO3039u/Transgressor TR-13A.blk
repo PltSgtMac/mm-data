@@ -128,7 +128,7 @@ TR:3039
 75.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Transgressor entered service with the Capellan Confederation Armed Forces in 2890 as a heavy aerospace fighter produced by Saroyan Special Productions on Sian. Designed from the outset to serve as the backbone of House Liao's aerospace wings, the design prioritizes durability and sustained firepower over outright speed or agility. Though better suited to the vacuum of space than atmospheric operations, it earned a lasting reputation among CCAF aerospace crews for its ability to remain in the fight long after other fighters would be forced to withdraw. As one of only a handful of aerospace designs continuously manufactured within the Confederation through the long years of the Succession Wars, the Transgressor became a defining element of Capellan aerospace doctrine and a common sight in DropShip hunter-killer squadrons across important Capellan systems.</p>
 </overview>
@@ -146,11 +146,11 @@ TR:3039
 </history>
 
 <manufacturer>
-Field Refit
+Saroyan Special Productions
 </manufacturer>
 
 <primaryFactory>
-N/A
+Sian
 </primaryFactory>
 
 <systemManufacturers>

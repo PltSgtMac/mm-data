@@ -137,7 +137,7 @@ TR:3067
 25.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Chaeronea is a twenty-five ton Clan light aerospace fighter originally developed by Clan Mongoose as a lighter and faster companion to Clan Snow Raven's Issus. Introduced in 2849 under the original designation Striking Mongoose, the fighter was conceived to complement the Mongoose preference for aerospace-oriented warfare with a craft better suited to their aggressive combat doctrine. Despite its diminutive size, the Chaeronea delivers firepower more commonly associated with medium aerospace fighters. Its combination of speed and striking power has made it a mainstay among Clan toumans, particularly those of resource-conscious Clans that value its simple construction and exclusive reliance on energy weapons.</p>
 </overview>
@@ -155,11 +155,11 @@ TR:3067
 </history>
 
 <manufacturer>
-Various (DS Aero Assembly Site Alpha, Industriplex MC2, Kindraa Mick-Kreese Primary Production Facility)
+DS Aero Assembly Site Alpha, Industriplex MC2, Kindraa Mick-Kreese Primary Production Facility
 </manufacturer>
 
 <primaryFactory>
-Babylon (Callandra), Circe, Atreus (Clan)
+Babylon (Callandra) (DS Aero Assembly Site Alpha), Circe (Industriplex MC2), Atreus (Clan) (Kindraa Mick-Kreese Primary Production Facility)
 </primaryFactory>
 
 <systemManufacturers>

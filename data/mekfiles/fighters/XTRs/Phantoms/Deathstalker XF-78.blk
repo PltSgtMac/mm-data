@@ -142,7 +142,7 @@ XTR:Phantoms
 80.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The F-77 Deathstalker is an eighty-ton heavy aerospace fighter developed by Andurien AeroTech, a division of Free Worlds Defense Industries. Originally unveiled in 2744 in response to a Free Worlds League Military request for a high-performance attack craft, the Deathstalker featured a radical forward-swept wing layout first theorized during the Age of War. Though the design showed tremendous promise during early development, structural flaws discovered during flight trials prevented it from entering full-scale production. Only twenty prototypes were constructed before the program was shelved. Despite this failure, the forward-swept wing concept proved sound enough to inspire a complete redesign that resulted in the highly successful F-90 Stingray. The fighter would not see production until centuries later, when the Duchy of Andurien revived the design during the Jihad era.</p>
 </overview>
@@ -160,7 +160,7 @@ XTR:Phantoms
 </history>
 
 <manufacturer>
-Andurien AeroTech (FWDI)
+Andurien AeroTech (A Division of Free Worlds Defense Industries)
 </manufacturer>
 
 <primaryFactory>

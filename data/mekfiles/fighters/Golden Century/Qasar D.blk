@@ -152,7 +152,7 @@ TR:GC
 80.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Qasar is an 80-ton Clan OmniFighter introduced by Clan Nova Cat in 2905, built around an aggressive dueling philosophy that prioritized speed and weapons payload over defensive resilience. Produced at Barcella, it was the Nova Cats' first original aerospace fighter design and quickly defined their early aerial doctrine. The Qasar combined thrust normally associated with fighters far below its tonnage with a weapons-carrying capacity that gave it an undeniable edge in one-on-one engagements, and its reputation spread quickly across the Clans. For decades it flew in aerospace Stars from multiple factions, its design compromises accepted as the price of exceptional combat performance.</p>
 </overview>
@@ -174,7 +174,7 @@ Barcella First Factory, LAW Irece Delta Refit Center
 </manufacturer>
 
 <primaryFactory>
-Barcella, Irece
+Barcella (Barcella First Factory), Irece (LAW Irece Delta Refit Center)
 </primaryFactory>
 
 <systemManufacturers>

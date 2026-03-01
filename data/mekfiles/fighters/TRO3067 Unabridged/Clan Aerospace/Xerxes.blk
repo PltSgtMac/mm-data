@@ -134,7 +134,7 @@ TR:3067
 85.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Xerxes is an 85-ton heavy aerospace fighter developed by Clan Smoke Jaguar and first produced in 2827 at Kirin Orbital Works SJ-3 on the Kerensky Cluster world of Kirin. Built to embody the Jaguars' direct and aggressive approach to combat, the design prioritizes destructive firepower and durable protection rather than speed or tactical flexibility. Its armament centers on a pair of wing-mounted heavy autocannons backed by nose-mounted extended range lasers, making the Xerxes effective in both air superiority engagements and ground attack roles. This combination of capability quickly established it as a valued asset across the toumans of virtually every Clan. Though second-line designs often struggle to find purpose after the introduction of OmniFighter technology, the Xerxes has remained in active service, continuing to fill escort and close support roles well into the modern era.</p>
 </overview>
@@ -152,11 +152,11 @@ TR:3067
 </history>
 
 <manufacturer>
-Kirin Orbital Works SJ-3
+Coyote Industrial, Csesztreg Industriplex Delta, Kindraa Mick-Kreese Primary Production Facility, Kirin Orbital Works SJ-3, Marron Aerospace Plant
 </manufacturer>
 
 <primaryFactory>
-Kirin (Orbital)
+Babylon (Abyssinia) (Coyote Industrial), Csesztreg (Csesztreg Industriplex Delta), Atreus (Clan) (Kindraa Mick-Kreese Primary Production Facility), Kirin (Orbital) (Kirin Orbital Works SJ-3), Babylon (Corsen) (Marron Aerospace Plant)
 </primaryFactory>
 
 <systemManufacturers>

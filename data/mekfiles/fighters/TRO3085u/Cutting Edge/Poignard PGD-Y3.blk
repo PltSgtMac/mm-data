@@ -128,7 +128,7 @@ TR:3085
 35.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Poignard is a light aerospace fighter produced by Kallon Industries, a company better known for its DropShip manufacturing operations in the Loyalty system. Designed in the years following the Jihad as an interceptor capable of engaging modern threat fighters, the Poignard represents Kallon's first foray into aerospace fighter production, leveraging fabrication expertise and supply chains developed through decades of spacecraft construction. Entering service in 3083 with the Marik-Stewart Commonwealth, the design proved capable enough to earn sales to the Republic of the Sphere within two years, establishing Kallon as a credible player in the light aerospace fighter market. The Poignard is a fast, aggressively armed platform for its weight class, designed to close quickly and deliver concentrated medium-range firepower against both air and ground targets.</p>
 </overview>
@@ -146,11 +146,11 @@ TR:3085
 </history>
 
 <manufacturer>
-Kallon Industries
+Kallon Weapon Industries
 </manufacturer>
 
 <primaryFactory>
-Loyalty (M-SC), Asuncion (RotS)
+Loyalty, Asuncion
 </primaryFactory>
 
 <systemManufacturers>

@@ -138,7 +138,7 @@ TR:3067
 85.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Shiva is the Free Worlds League's first domestic OmniFighter, introduced in 3060 and named for the multiarmed Hindu god of destruction. Developed in close cooperation with the Word of Blake, the design reflects the League's ambition to field a cutting-edge, flexible combat aircraft capable of competing with Clan aerospace designs. Built at Andurien Aerospace's facility on Lopez, the Shiva was intended to serve as the League's principal carrier-borne combat aircraft, providing commanders with a platform that could be reconfigured for virtually any mission profile. The design's capacity to carry a massive, mission-tailored weapons payload across its modular pod system earned it immediate attention across the League's aerospace wings, and it has seen service with units ranging from the Knights of the Inner Sphere to the Word of Blake Militia.</p>
 </overview>
@@ -156,11 +156,11 @@ TR:3067
 </history>
 
 <manufacturer>
-Andurien Aerospace, Nimakachi Fusion Products Ltd.
+Andurien AeroTech (A Division of Free Worlds Defense Industries)
 </manufacturer>
 
 <primaryFactory>
-Lopez, Dalton
+Lopez
 </primaryFactory>
 
 <systemManufacturers>

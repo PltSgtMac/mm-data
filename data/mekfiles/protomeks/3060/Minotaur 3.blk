@@ -142,7 +142,7 @@ TR:3060
 9.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Minotaur is a nine-ton first-generation ProtoMek developed by Clan Smoke Jaguar as the heaviest and most powerful design in the original ProtoMek program on Huntress. Built to serve as the assault element of ProtoMek formations, the Minotaur sacrifices speed for devastating firepower and thick armor protection, mounting two ER Medium Lasers that deliver as much damage as many light BattleMeks. Combined with thirty-six points of armor sufficient to withstand a heavy autocannon hit, the Minotaur represented the upper limit of what first-generation ProtoMek technology could achieve. Its intended role as a defensive strongpoint leverages its impressive combat power while minimizing the impact of its slow ground speed.</p>
 </overview>
@@ -160,11 +160,11 @@ TR:3060
 </history>
 
 <manufacturer>
-Unknown
+Yoma Aerospace Plant
 </manufacturer>
 
 <primaryFactory>
-Unknown
+Babylon (Corsen)
 </primaryFactory>
 
 <systemManufacturers>

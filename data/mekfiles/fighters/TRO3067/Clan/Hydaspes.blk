@@ -150,7 +150,7 @@ TR:3067
 95.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Hydaspes is a ninety-five ton Clan heavy aerospace fighter developed by Clan Cloud Cobra in 2840, making it one of the earliest purpose-built Clan fighter designs. Conceived in the aftermath of Operation Klondike, the fighter was designed as a dedicated long-range combatant, leveraging advances in laser technology to produce an airframe more capable than anything the Star League Defense Force had previously fielded. While relatively slow for its weight class, the Hydaspes compensates with devastating firepower and heavy protection, establishing itself as one of the most lethal fighters across the Clan toumans. Its extensive use of advanced technologies has historically limited production to Clans with sufficient industrial resources, though widespread manufacturing across multiple homeworlds and at least one Inner Sphere facility has ensured broad availability. The development of OmniFighters eventually relegated the Hydaspes to second-line service, but its raw combat power ensures it remains a valued and feared combatant.</p>
 </overview>
@@ -172,7 +172,7 @@ Complex 17, Complex H-3 CCC, Crest Foundries, DS Aero Assembly Site Rho, Niles I
 </manufacturer>
 
 <primaryFactory>
-Albion (New Bergan), Homer, Lum, Twycross, Niles, York
+Albion (New Bergan) (Complex 17), Homer (Complex H-3 CCC), Lum (Crest Foundries), Twycross (DS Aero Assembly Site Rho), Niles (Niles Industriplex Gamma), York (York Aerospace Y4 Facility)
 </primaryFactory>
 
 <systemManufacturers>

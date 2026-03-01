@@ -124,7 +124,7 @@ TR:3039
 25.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>Designed and manufactured by Mujika Aerospace Technologies on St. Ives, the Thrush entered service in 2798 as a light escort and screening fighter for Capellan DropShip detachments and garrison forces throughout the Confederation. An earlier variant had served the CCAF since the mid-twenty-fifth century, but the TR-7 became the definitive model and the backbone of Capellan light aerospace strength for generations. Inexpensive to produce and easy to maintain, the design spread to licensed manufacturing facilities across the Confederation, ensuring broad availability despite the toll the Succession Wars took on industrial capacity. Pilots throughout the Confederation know it as "the Frisbee," a nickname drawn from the fighter's distinctive circular wing planform. The Thrush trades armor protection for exceptional speed and agility, making it most effective in screening, scouting, and escort roles rather than as a front-line interceptor. Despite its limitations against heavier opponents, the design's combination of low cost and high performance has kept it relevant across multiple centuries of continuous production.</p>
 </overview>
@@ -142,11 +142,11 @@ TR:3039
 </history>
 
 <manufacturer>
-Mujika Aerospace Technologies, Earthwerks Ltd., Tengo Aerospace
+Mujika Aerospace Technologies, Earthwerks Ltd., Tengo Aerospace, HDF Manufacturing
 </manufacturer>
 
 <primaryFactory>
-St. Ives, Tikonov, Sarna
+St. Ives (Mujika Aerospace Technologies), Tikonov (Earthwerks Ltd.), Sarna (Tengo Aerospace), Falsterbo (HDF Manufacturing)
 </primaryFactory>
 
 <systemManufacturers>

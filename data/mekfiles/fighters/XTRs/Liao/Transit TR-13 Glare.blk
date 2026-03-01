@@ -135,7 +135,7 @@ XTR:Liao
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Transit is one of the most recognizable medium aerospace fighters in the Capellan Confederation, having served as the de facto standard attack craft for House Liao air lances since its introduction in the early 2930s. Produced by Mujika Aerospace Technologies on Capella, the Transit emerged from a competitive evaluation in which the Capellan Confederation Armed Forces selected it for reliability and cost-effectiveness over competing designs of the era. Built around a heavy nose-mounted autocannon and a quartet of supporting medium lasers, the Transit prioritizes destructive close-range punch over speed or agility.</p><p>The Transit is not a dogfighter by design. It excels in the roles the CCAF demands of it: hunting BattleMechs from low altitude and threatening DropShips in contested airspace. Its distinctive silhouette is well known throughout the Successor States, and the fighter's reputation for tenacity has made it a fixture of both garrison and front-line Capellan aerospace forces alike.</p>
 </overview>
@@ -153,7 +153,7 @@ XTR:Liao
 </history>
 
 <manufacturer>
-Ceres Metals Industries
+Mujika Aerospace Technologies
 </manufacturer>
 
 <primaryFactory>

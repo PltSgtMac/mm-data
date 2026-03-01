@@ -148,7 +148,7 @@ TR:VAr
 144.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The WK-1000 Stratos is Wakazashi Enterprises' entry into the commercial airliner market, designed to compete with Avanti Aerospace's dominant ACL-800 Comet. Unlike other Comet imitators that relied on licensing agreements or outright theft of Avanti's designs, Wakazashi developed the Stratos as an independent effort to match the ACL-800's specifications using Combine-sourced components and engineering. The result is a ninety-passenger airliner that, while smaller than the Comet, represents an honest attempt to challenge Avanti's near-monopoly on quality commercial air travel within the borders of the Draconis Combine. Wakazashi's corporate reputation as one of the Combine's premier aerospace manufacturers lent the Stratos immediate credibility in a market skeptical of foreign designs.</p>
 </overview>
@@ -168,4 +168,8 @@ TR:VAr
 <manufacturer>
 Wakazashi Enterprises
 </manufacturer>
+
+<primaryFactory>
+Unknown
+</primaryFactory>
 

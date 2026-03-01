@@ -129,7 +129,7 @@ XTR:Pirates
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Lightning is a fifty-ton medium aerospace fighter developed by Tengo Aerospace on Sarna, born from the Capellan Confederation's effort to field a domestic design capable of mounting the era's most powerful autocannon technology. The original model entered service in 2465, but rapid advances in military hardware during the following century rendered it obsolete. Tengo responded with a comprehensive redesign, and the resulting LTN-G15 entered CCAF evaluation in 2511. Though the Confederation ultimately chose a competing design as its primary procurement contract, the Lightning proved attractive enough to spread across manufacturers throughout the Inner Sphere and Periphery. The design is now found in virtually every major military, valued for its raw close-range firepower, reliable handling characteristics, and straightforward maintenance requirements.</p>
 </overview>
@@ -147,11 +147,11 @@ XTR:Pirates
 </history>
 
 <manufacturer>
-Unknown
+Tengo Aerospace
 </manufacturer>
 
 <primaryFactory>
-Field Refit
+Sarna
 </primaryFactory>
 
 <systemManufacturers>

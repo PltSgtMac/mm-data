@@ -132,7 +132,7 @@ TR:3075
 80.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Vulcan stands as the most celebrated warplane ever fielded by the Rim Worlds Republic. Unable to match the Great Houses in fielding large numbers of BattleMechs, the Republic's leadership made a strategic choice early in the twenty-sixth century: concentrate industrial resources on conventional armor and aerospace power instead. Roe Weapon Systems answered that directive with an 80-ton heavy fighter built around devastating wing-mounted firepower and remarkable atmospheric agility. Introduced in primitive form in 2525 and upgraded to full production standard in 2650, the Vulcan became the centerpiece of Republican aerospace power for more than two centuries.</p><p>Production was centered at Roe Weapon Systems' main facility on Apollo, with additional manufacturing spread across other Republic worlds. The design survived the nation that built it, passing into mercenary service, Periphery fleets, and independent operators who recognized a capable and durable heavy fighter when they saw one.</p>
 </overview>
@@ -150,7 +150,7 @@ TR:3075
 </history>
 
 <manufacturer>
-Field Refit
+Refit
 </manufacturer>
 
 <primaryFactory>

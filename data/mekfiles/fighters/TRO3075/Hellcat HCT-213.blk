@@ -137,7 +137,7 @@ TR:3075
 60.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Hellcat is a sixty-ton medium aerospace fighter introduced in 2671 by Mitchell Vehicles. Designed during a period of declining military expenditures following the Reunification War, the fighter was Mitchell's first foray into aerospace manufacturing after decades of producing ground combat vehicles. Though the Star League Defense Force found the design uninspiring due to its lack of advanced technology, the Hellcat earned a reputation among mercenary commands, private security firms, and militia forces who prized its rugged construction and minimal maintenance requirements. Licensed production by Lycomb-Davion IntroTech and Lockheed/CBM Corporation eventually spread the fighter across the Inner Sphere, and in the modern era, United Outworlders Corporation on Ramora produces an upgraded variant in partnership with Clan Snow Raven.</p>
 </overview>
@@ -155,11 +155,11 @@ TR:3075
 </history>
 
 <manufacturer>
-Mitchell Vehicles
+Mitchell Vehicles, Lycomb-Davion IntroTech, Lockheed/CBM Corp.
 </manufacturer>
 
 <primaryFactory>
-Graham IV
+Graham IV (Mitchell Vehicles), Mars (Mitchell Vehicles), Sirius V (Mitchell Vehicles), New Avalon (Lycomb-Davion IntroTech), Tharkad (Lockheed/CBM Corp.)
 </primaryFactory>
 
 <systemManufacturers>

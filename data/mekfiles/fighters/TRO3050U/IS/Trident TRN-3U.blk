@@ -125,7 +125,7 @@ TR:3050
 20.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>Designed and produced by Newhart Industries beginning in 2717, the Trident served as a first-response aerospace fighter for planetary defense forces across the Inner Sphere during the height of the Star League. Valued for its combination of speed, durability, and an energy-based weapon suite free from logistical dependence on ammunition resupply, the design earned a reputation as a reliable and cost-effective light fighter suited to both atmospheric defense and carrier operations. Though eventually supplanted in front-line service by more capable designs, Newhart continued producing the Trident for years afterward, often selling units at or near cost to mercenary commands and smaller militaries that lacked access to more advanced equipment. The Trident's ease of maintenance and resilient airframe extended its operational life far beyond what contemporary assessments of its military prospects would have predicted.</p>
 </overview>
@@ -143,7 +143,7 @@ TR:3050
 </history>
 
 <manufacturer>
-Field Refit
+Refit
 </manufacturer>
 
 <primaryFactory>

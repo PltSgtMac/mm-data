@@ -128,7 +128,7 @@ TR:3050
 45.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Tomahawk is a 45-ton light aerospace fighter designed by Wangker Aerospace as a dedicated dogfighter for the Star League Defense Force. First introduced in 2680, the THK-63 represented the culmination of nearly four decades of iterative development aimed at solving the chronic heat management problems that plagued earlier production models. Its all-energy armament, capable performance envelope, and generous fuel capacity made the design well suited to patrol and escort duties across the full range of Star League aerospace operations.</p><p>The Tomahawk earned a reputation as a reliable and capable light fighter during its long service with the SLDF, excelling in both atmospheric and space environments. Though far fewer survive than were originally produced, examples remained in widespread use among the Clans and select Inner Sphere factions for centuries after the Star League's fall, valued for their combination of maneuverability, fuel economy, and self-sufficient armament.</p>
 </overview>
@@ -146,11 +146,11 @@ TR:3050
 </history>
 
 <manufacturer>
-Field Refit
+Refit
 </manufacturer>
 
 <primaryFactory>
-Unknown
+Various
 </primaryFactory>
 
 <systemManufacturers>

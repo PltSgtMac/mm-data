@@ -186,7 +186,7 @@ TR:3057r
 4
 </escape_pod>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>Developed for independent operations, the Scout-class JumpShip is a specialized, military-grade vessel that prioritizes speed and stealth over raw transport capacity. It is the smallest JumpShip found travelling the stars, with a low mass and negligible jump signature, while sporting extensive facilities for its small crew. The Quetzalcoatl modification replaces the single docking collar of the master design, with a sizeable fighter capacity.</p>
 </overview>
@@ -200,8 +200,12 @@ TR:3057r
 </history>
 
 <manufacturer>
-Alliance Aerospace Group, Irian Technologies, Ioto Galactic Enterprises, Dharma HyperSpace
+Refit
 </manufacturer>
+
+<primaryFactory>
+Various
+</primaryFactory>
 
 <systemManufacturers>
 CHASSIS:Unknown

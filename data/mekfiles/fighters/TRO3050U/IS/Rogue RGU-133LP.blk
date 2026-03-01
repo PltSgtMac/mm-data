@@ -125,7 +125,7 @@ TR:3050
 40.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Rogue was commissioned by the Star League Defense Force as a specialized missile boat for zero-G patrol and fire support operations. Developed by the Iona Light Shipyards on Capella and entering SLDF service in 2631, the forty-ton light fighter carried a long-range missile payload paired with ferro-aluminum armor that gave it solid protection for its size. Its designers intended the craft to engage targets from a distance and provide sustained bombardment support across a range of operational environments, from deep-space patrol to ground attack.</p><p>A dependency on faster escorts to compensate for limited maneuverability defined how the Rogue was used throughout its career. Where other fighters were expected to hold their own in a close engagement, the Rogue was expected to find a target, engage it from range, and rely on its protection while faster allies covered the flanks.</p>
 </overview>
@@ -143,11 +143,11 @@ TR:3050
 </history>
 
 <manufacturer>
-Field Refit
+Refit
 </manufacturer>
 
 <primaryFactory>
-Field Refit
+Various
 </primaryFactory>
 
 <systemManufacturers>

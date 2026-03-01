@@ -131,7 +131,7 @@ TR:3039
 80.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Slayer is a heavy aerospace fighter produced by Wakazashi Enterprises for the Draconis Combine, entering service in 2657 during the twilight years of the Star League. Built around a deceptively compact delta-wing airframe, the design earned a reputation that outlasted the civilization that created it, with generations of enemy pilots underestimating its mass and paying for the mistake.</p><p>The Slayer was conceived as a true multi-role heavy fighter, equally capable of prosecuting dogfights, strafing ground targets, and hunting DropShips through the vacuum of deep space. Its designers prioritized endurance above all other considerations, fitting the airframe with a double-capacity fuel tank that allows the craft to loiter over contested areas long after lighter fighters have been forced to withdraw. This practical durability, combined with an adaptable airframe that has hosted countless field modifications over the centuries, established the Slayer as one of the most recognizable and enduring warbirds in the Inner Sphere.</p>
 </overview>
@@ -149,11 +149,11 @@ TR:3039
 </history>
 
 <manufacturer>
-Wakazashi Enterprises
+Matabushi, Inc, Wakazashi Enterprises
 </manufacturer>
 
 <primaryFactory>
-Dover
+Avon (Matabushi, Inc), Dover (Wakazashi Enterprises)
 </primaryFactory>
 
 <systemManufacturers>

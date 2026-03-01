@@ -124,7 +124,7 @@ TR:3067
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Free Worlds League's post-Clan Invasion commitment to rebuilding and modernizing its naval forces produced a generation of aerospace fighters designed around fleet operations. The Lancer was Gutierrez Aerospace's contribution to that effort, offering the Free Worlds League Military a capable carrier-based platform built on practical experience rather than unproven technology. Entering service with the FWLM in 3064 after a measured four-year development program, the Lancer earned quick acceptance as a reliable reconnaissance fighter optimized for DropShip and WarShip operations. Though not the most cutting-edge design in the Free Worlds League arsenal, it filled a genuine capability gap in the FWLM navy, earning a reputation among pilots and maintenance crews alike as a forgiving, maintainable aircraft suited to the demanding realities of sustained carrier service.</p>
 </overview>
@@ -146,7 +146,7 @@ Gutierrez Aerospace
 </manufacturer>
 
 <primaryFactory>
-Trellisane
+Trellisane, Ellsworth
 </primaryFactory>
 
 <systemManufacturers>

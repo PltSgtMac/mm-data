@@ -138,7 +138,7 @@ TR:3075
 4.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Orc is a four-ton second-generation ProtoMek designed by Clan Hell's Horses as their first homegrown ProtoMek design. Unveiled in 3066 after the Horses confirmed the value of first-generation ProtoMeks assimilated from the fallen Smoke Jaguars, the Orc was built with the Horses' unique combined-arms battle philosophy firmly in mind. Mounting four single-tube SRM launchers spread across the arms and torso, the Orc was specifically designed for anti-vehicle and anti-infantry work, the tactical roles the Hell's Horses have championed for centuries. The design quickly became a fixture in the Clan's frontline formations as a special attachment to every Cluster.</p>
 </overview>
@@ -156,11 +156,11 @@ TR:3075
 </history>
 
 <manufacturer>
-Clan Hell's Horses Industriplex Upsilon
+Csesztreg Industriplex Epsilon, Industriplex Upsilon
 </manufacturer>
 
 <primaryFactory>
-Niles
+Csesztreg (Csesztreg Industriplex Epsilon), Niles (Industriplex Upsilon)
 </primaryFactory>
 
 <systemManufacturers>

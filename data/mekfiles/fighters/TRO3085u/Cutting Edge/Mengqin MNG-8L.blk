@@ -142,7 +142,7 @@ TR:3085
 95.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>Rashpur-Owens Incorporated, the Capellan aerospace firm best known for its assault DropShip lines, entered the fighter market in the 3070s as a deliberate strategy to diversify revenue and reduce reliance on spacecraft contracts alone. The company had clawed its way back from near-insolvency several times during the Succession Wars, and while strong DropShip sales carried it through the Jihad, leadership recognized the post-war environment as an opportunity to expand into a new product category. Design work proceeded with greater difficulty than anticipated, with engineering delays and failed subcomponent negotiations extending the timeline well beyond initial projections. The Magistracy of Canopus ultimately secured co-production rights, and the design entered service in 3081 as the MNG-8L, named the <i>Měngqín</i>. Despite a troubled development record, the aircraft found a receptive audience in the Capellan Confederation Armed Forces, the Magistracy Air Force, and mercenary commands operating across the former Inner Sphere.</p>
 </overview>
@@ -160,11 +160,11 @@ TR:3085
 </history>
 
 <manufacturer>
-Rashpur-Owens Incorporated, Detroit Consolidated Aerospace
+Rashpur-Owens Inc., Detroit Consolidated Aerospace
 </manufacturer>
 
 <primaryFactory>
-Capella (Rasphur), Detroit (DCA)
+Capella (Rashpur-Owens Inc.), Detroit (Detroit Consolidated Aerospace)
 </primaryFactory>
 
 <systemManufacturers>

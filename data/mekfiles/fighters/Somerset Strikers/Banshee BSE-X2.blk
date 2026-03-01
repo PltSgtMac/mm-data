@@ -131,7 +131,7 @@ Medium Laser
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Banshee is a medium aerospace fighter designed by Wangker Aerospace for the Armed Forces of the Federated Commonwealth. Introduced in 3046, the BSE-X2 was conceived as an experimental platform intended to dramatically increase the operational flight time of aerospace fighters. The design employed an unconventional dual-engine configuration, pairing a standard fusion powerplant for space operations with a separate turbine engine for atmospheric combat. While this approach demonstrated remarkable potential for extended endurance and surprisingly responsive handling, the combined mass of the two powerplants severely compromised the fighter's acceleration, limiting it to a mere four gravities of thrust. Thin armor protection further compounded the design's shortcomings, leaving the fifty-ton fighter with coverage comparable to craft half its weight. Despite these issues, the Banshee's innovative cockpit systems and dual-motive concept represented a bold if ultimately unsuccessful experiment in aerospace fighter design.</p>
 </overview>
@@ -149,7 +149,7 @@ Medium Laser
 </history>
 
 <manufacturer>
-Wangker Aerospace
+Wangker AeroSpace
 </manufacturer>
 
 <primaryFactory>

@@ -135,7 +135,7 @@ TR:3145:FS
 55.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Rondel is a fifty-five-ton medium aerospace fighter built by Greenock Aero Manufacturing, Ltd. on Firgrove, introduced to service approximately a decade before the Victoria War between the Capellan Confederation and the Federated Suns. Greenock designed the fighter for dual-environment operations, providing equal capability in atmosphere and in space and allowing the same airframe to serve in both the interceptor and ground attack roles without modification. Initial production was modest, which limited the fighter's early distribution and kept it below the threshold of wider recognition for several years after introduction. Over time, growing demand from forces along the Federated Suns' Capellan border drew increasing attention to the design, and the Rondel has remained a fixture of Capellan March aerospace forces through successive conflicts.</p>
 </overview>
@@ -153,7 +153,7 @@ TR:3145:FS
 </history>
 
 <manufacturer>
-Greenock Aero Manufacturing, Ltd.
+Greenock Aero Manufacturing Ltd.
 </manufacturer>
 
 <primaryFactory>

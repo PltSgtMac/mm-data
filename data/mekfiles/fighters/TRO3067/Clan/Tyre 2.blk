@@ -136,7 +136,7 @@ TR:3067
 55.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Tyre is a medium-weight aerospace fighter developed by Clan Steel Viper in 2907, conceived as a homegrown successor to the Corsair class fighter that had nearly vanished among the Clans' ancestors during the long journey from the Inner Sphere. After years of iterative development and numerous proposed enhancements, Viper designers settled on a design that deliberately traded maximum speed for resilience and concentrated firepower, producing a craft ideally suited to the DropShip escort role the Clan urgently needed to fill. Economical to operate and straightforward to maintain by Clan standards, the Tyre found a ready home not only in Steel Viper aerospace forces but across much of the Clan homeworld complex. While newer OmniFighters eventually displaced it from front-line duty among wealthier Clans, the Tyre remained a fixture of second-line forces throughout the Clan universe, valued for dependability and sustained combat effectiveness against both aerospace and ground targets.</p>
 </overview>
@@ -154,11 +154,11 @@ TR:3067
 </history>
 
 <manufacturer>
-New Kent Orbiter D7
+Complex 19, Complex H-3 CCC, New Kent Orbiter D7, York Aerospace Y4 Facility
 </manufacturer>
 
 <primaryFactory>
-New Kent (Celebes)
+Albion (New Bergan) (Complex 19), Homer (Complex H-3 CCC), New Kent (Celebes) (New Kent Orbiter D7), York (York Aerospace Y4 Facility)
 </primaryFactory>
 
 <systemManufacturers>

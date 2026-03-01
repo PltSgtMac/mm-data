@@ -198,7 +198,7 @@ XTR:Primitives III
 4
 </escape_pod>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Liberty is perhaps the most significant vessel in naval history, serving as the prototype for the "modern" JumpShip. Developed by Blue Nose Interstellar Technologies, it moved away from the "hollowed-out cylinder" designs of the early 25th century, which carried ships internally. Instead, the Liberty introduced the needle-like hull and external docking collars we recognize today. This breakthrough made interstellar travel significantly cheaper, more resilient, and easier to maintain.</p>
 </overview>
@@ -216,6 +216,6 @@ Blue Nose Interstellar Technologies
 </manufacturer>
 
 <primaryFactory>
-Blue Nose Martian shipyard
+Mars
 </primaryFactory>
 

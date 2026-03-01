@@ -146,7 +146,7 @@ TR:Proto
 4.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Satyr is a four-ton first-generation ProtoMek developed as the last design completed in the original Clan Smoke Jaguar ProtoMek program on Huntress. Designed for deep-penetration reconnaissance, the Satyr combines high ground speed with an ER Small Laser and a light active probe, giving it the ability to detect hidden units while operating far from friendly support. The inclusion of electronic detection equipment makes the Satyr unique among first-generation ProtoMeks, as most contemporary designs mounted only weapons and armor. By the mid-3060s, the Satyr had become one of the most widely produced reconnaissance ProtoMeks in the Homeworld Clans, valued for its ability to locate enemies that heavier units could then engage.</p>
 </overview>
@@ -164,11 +164,11 @@ TR:Proto
 </history>
 
 <manufacturer>
-Unknown
+Refit - Irece Delta Refit Center
 </manufacturer>
 
 <primaryFactory>
-Unknown
+Irece
 </primaryFactory>
 
 <systemManufacturers>

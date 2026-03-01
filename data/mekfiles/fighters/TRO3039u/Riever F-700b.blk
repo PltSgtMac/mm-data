@@ -139,7 +139,7 @@ TR:3039
 100.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>Born of necessity during the First Succession War, the F-100 Riever was Captain-General Thaddeus Marik's answer to the Free Worlds League's dwindling aerospace capabilities. Unlike the sophisticated Star League-era designs it would fight alongside, the Riever was conceived from the outset as something the League's battered industrial base could actually build and maintain. Andurien AeroTech, a division of Free Worlds Defense Industries, delivered a design that traded elegance for durability, prioritizing heavy armor and ease of repair over raw performance. The result was a craft that technicians came to appreciate even as pilots learned to respect its limitations. The Riever became the backbone of Free Worlds League aerospace operations against enemy fighter formations and DropShips, a role it filled credibly for over two centuries despite never being mistaken for a sophisticated machine.</p>
 </overview>
@@ -161,7 +161,7 @@ Andurien AeroTech (A Division of Free Worlds Defense Industries), Kurita Combine
 </manufacturer>
 
 <primaryFactory>
-Andurien, Lopez, Westover, Altair
+Andurien (Andurien AeroTech (A Division of Free Worlds Defense Industries)), Lopez (Andurien AeroTech (A Division of Free Worlds Defense Industries)), Westover (Andurien AeroTech (A Division of Free Worlds Defense Industries)), Altair (Kurita Combine Munitions Corporation)
 </primaryFactory>
 
 <systemManufacturers>

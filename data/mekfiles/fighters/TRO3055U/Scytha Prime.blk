@@ -146,7 +146,7 @@ TR:3055U
 90.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>When Clan Jade Falcon commanders demanded a super-heavy OmniFighter capable of standing against Clan Ghost Bear's formidable Kirghiz, they turned to Complex VI on Ironhold to deliver an answer. The result, first fielded in 2968, was the Scytha: a 90-ton heavy OmniFighter that traded heavy armor for speed and exceptional weapons payload. By accepting lighter protection than most designs of comparable tonnage, the Scytha offered pilots a weapons variety few aircraft could match. Despite its origins as a Jade Falcon prestige asset, small numbers eventually spread beyond the Falcons, earning a fearsome reputation across Clan aerospace command structures and among the Inner Sphere states that faced the invaders in repeated engagements.</p>
 </overview>
@@ -164,11 +164,11 @@ TR:3055U
 </history>
 
 <manufacturer>
-Complex VI
+Refit - Crest Foundries
 </manufacturer>
 
 <primaryFactory>
-Ironhold
+Quatre Belle
 </primaryFactory>
 
 <systemManufacturers>

@@ -156,7 +156,7 @@ TR:GC
 60.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 20:23:30
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Goth is a sixty-ton Clan medium OmniFighter developed by Clan Cloud Cobra during the Golden Century. First entering service in 2873, the design was derived from the Inner Sphere Gotha aerospace fighter, transforming the proven airframe into a modular weapons platform through the application of OmniPod technology. Cloud Cobra engineers valued the Gotha's reputation for durability and ease of maintenance, qualities that translated well into the new configuration. Intended primarily as an anti-DropShip interceptor, the Goth filled a unique niche between the lighter Issus and the heavier Xerxes that no other Clan fighter occupied until the introduction of the Tyre in 2907. Its versatility and solid performance made the design popular across nearly every Clan, establishing it as one of the most widespread medium OmniFighters of its generation.</p>
 </overview>
@@ -178,7 +178,7 @@ Complex H-3 CCC, Allied Technologies
 </manufacturer>
 
 <primaryFactory>
-Homer, Stewart
+Homer (Complex H-3 CCC), Stewart (Allied Technologies)
 </primaryFactory>
 
 <systemManufacturers>

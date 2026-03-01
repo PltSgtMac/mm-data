@@ -139,7 +139,7 @@ TR:Proto
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Corsair is a fifty-ton medium aerospace fighter developed by Wangker Aerospace for the Star League Defense Force in 2779. Commissioned to replace the devastating fighter losses suffered during the Amaris Civil War, the Corsair was built around a compact all-energy weapons package and a sleek airframe optimized for atmospheric operations. Wangker already had a working prototype on hand when the SLDF came calling, which allowed full-scale production to begin within months. Despite early reliability problems that plagued the initial production series, the design's raw performance convinced the Star League to keep the program alive while Wangker corrected the deficiencies. The Corsair has since become one of the most widely recognized medium fighters in the Inner Sphere, earning a reputation for ruggedness and dependability across centuries of continuous service.</p>
 </overview>
@@ -157,7 +157,7 @@ TR:Proto
 </history>
 
 <manufacturer>
-Wangker Aerospace
+Wangker AeroSpace
 </manufacturer>
 
 <primaryFactory>

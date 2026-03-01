@@ -141,7 +141,7 @@ WoR
 15.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Sprite is a fifteen-ton ultraheavy ProtoMek, the heaviest design in the entire ProtoMek weight class. Developed during the Wars of Reaving, the Sprite pushes ProtoMek technology to its absolute limits, mounting weapons and armor loads that rival light BattleMeks. The design exists at the theoretical maximum of what the ProtoMek cockpit and pilot interface can control, and its sheer mass requires careful tactical employment to compensate for the relatively slow ground speed that results from pushing so much tonnage through a ProtoMek-scale power plant. Despite these limitations, the Sprite provides devastating firepower in a package that costs a fraction of the resources needed for a comparable BattleMek.</p>
 </overview>
@@ -159,11 +159,11 @@ WoR
 </history>
 
 <manufacturer>
-Unknown
+Triton Assembly Yard, Unknown
 </manufacturer>
 
 <primaryFactory>
-Unknown
+Roche (Triton Assembly Yard), Unknown (Unknown)
 </primaryFactory>
 
 <systemManufacturers>

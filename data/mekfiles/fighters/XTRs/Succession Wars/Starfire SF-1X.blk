@@ -142,7 +142,7 @@ XTR:SW
 55.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Starfire is a medium aerospace fighter developed by the New Avalon Institute of Science and the Banzai Weapons Design Company in the years following the discovery of the Helm Memory Core. Commissioned in 3028 as an airborne testbed for recovered Star League technology, the design emerged alongside several other NAIS research programs aimed at understanding and fielding advanced lostech equipment under operationally realistic conditions. Rather than building a conventional combat aircraft, the NAIS chose an aerospace platform to allow rapid evaluation of new weapons and armor systems. Though produced in only small numbers, the Starfire gave the Federated Suns a meaningful head start in translating Memory Core data into deployable hardware. A limited production run in the mid-3040s placed the fighter in service with NAIS training units, where it filled a secondary combat role even as its experimental origins set it apart from the generation of technology it helped develop.</p>
 </overview>
@@ -160,7 +160,7 @@ XTR:SW
 </history>
 
 <manufacturer>
-Banzai Weapons Design Company
+Banzai Weapon Design Company
 </manufacturer>
 
 <primaryFactory>

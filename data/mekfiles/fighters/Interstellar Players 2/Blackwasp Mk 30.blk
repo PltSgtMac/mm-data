@@ -132,7 +132,7 @@ ISP2
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The BlackWasp is a medium robotic interceptor developed by Allied Aerospace, Inc. for the Terran Hegemony. Entering service in 2728, the Mk. 30 was one of the first fully autonomous aerospace fighters designed exclusively for automated planetary defense. Built to complement the much larger Caspar drone WarShips, the BlackWasp filled a critical role by engaging fighter-sized threats that the robot warships could not effectively target. Distributed widely across Hegemony outpost worlds and integrated into Space Defense System networks, the design earned recognition as the premier drone fighter of the Star League era. Capable of performing maneuvers impossible for crewed fighters and operating without any need for ammunition resupply, the BlackWasp served as a cornerstone of automated defense for decades before the introduction of the Mk. 39 VoidSeeker series.</p>
 </overview>
@@ -150,11 +150,11 @@ ISP2
 </history>
 
 <manufacturer>
-Allied Aerospace, Inc.
+Allied Aerospace, Inc
 </manufacturer>
 
 <primaryFactory>
-Pollux (destroyed 2767)
+Pollux
 </primaryFactory>
 
 <systemManufacturers>

@@ -138,7 +138,7 @@ TR:VAr
 PETROCHEMICALS
 </fuelType>
 
-# Fluff Date: 2026-02-28 15:04:05
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Brunel Dump Truck is a massive large-wheeled support vehicle produced by Achernar Heavy Industries, first designed in 2637 to serve the ore extraction industry. Built around the demands of heavy strip-mining operations, the Brunel hauls enormous loads of raw ore and debris from extraction sites to processing facilities, handling work that would otherwise require multiple smaller vehicles. Although it competes against Earthwerks Incorporated's lighter Lesseps in overlapping markets, the Brunel's greater carrying capacity and economies of scale make it the preferred choice wherever mining volumes justify the investment in a larger machine. A distinctive subculture of heavy truck enthusiasts has grown up around the Brunel across the Inner Sphere, with racing and pulling competitions drawing drivers who modify their rigs well beyond factory specifications, a practice the manufacturer notes in its warranty documentation with conspicuous displeasure.</p>
 </overview>
@@ -156,11 +156,11 @@ PETROCHEMICALS
 </history>
 
 <manufacturer>
-Achernar Heavy Industries
+Achernar Heavy Industries, Earthwerks Incorporated
 </manufacturer>
 
 <primaryFactory>
-Achernar
+Achernar (Achernar Heavy Industries), Unknown (Earthwerks Incorporated)
 </primaryFactory>
 
 <systemManufacturers>

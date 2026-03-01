@@ -133,7 +133,7 @@ TR:3050
 50.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Hellcat II is a fifty-ton medium aerospace fighter commissioned by Mitchell Vehicles in 2710 as a heavy aerospace scout for the Star League Defense Force. Despite sharing a name and manufacturer with the older Hellcat, the Hellcat II is an entirely different design, ten tons lighter and built around a flying-wing airframe intended to minimize its emissions footprint. The craft's inclusion of a Beagle Active Probe made it one of the most capable reconnaissance fighters in the SLDF inventory, though its late introduction meant it saw only limited deployment before the fall of the Star League. In the centuries since, surviving examples have served with Clan second-line formations, ComStar's Com Guards, and various Successor State forces.</p>
 </overview>
@@ -151,7 +151,7 @@ TR:3050
 </history>
 
 <manufacturer>
-Field Refit
+Refit - Field
 </manufacturer>
 
 <primaryFactory>

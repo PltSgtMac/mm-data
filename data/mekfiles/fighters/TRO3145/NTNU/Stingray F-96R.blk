@@ -132,7 +132,7 @@ RS:3145-NTNU
 60.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The F-90 Stingray is a sixty-ton medium aerospace fighter produced by Andurien AeroTech, a division of Free Worlds Defense Industries. Introduced in 2762, the Stingray refined the forward-swept wing concept pioneered by the failed F-77 Deathstalker prototype into a proven, combat-ready airframe. Instantly recognizable by its distinctive slanted wing profile, the fighter earned a reputation for exceptional maneuverability and stability that made it a favorite among experienced pilots. The Stingray became the Free Worlds League Military's standard medium fighter, with production at multiple Andurien AeroTech facilities ensuring a steady supply. Licensing agreements with Gutierrez Aerospace on Trellisane further expanded output. While most common within the League, every Successor State fields at least a few Stingrays, with the Lyran Commonwealth maintaining a particularly notable inventory inherited from the Star League era.</p>
 </overview>
@@ -150,11 +150,11 @@ RS:3145-NTNU
 </history>
 
 <manufacturer>
-Andurien AeroTech / Gutierrez Aerospace
+Andurien AeroTech (A Division of Free Worlds Defense Industries), Gutierrez Aerospace
 </manufacturer>
 
 <primaryFactory>
-Andurien, Westover, Trellisane
+Andurien (Andurien AeroTech (A Division of Free Worlds Defense Industries)), Westover (Andurien AeroTech (A Division of Free Worlds Defense Industries)), Trellisane (Gutierrez Aerospace)
 </primaryFactory>
 
 <systemManufacturers>

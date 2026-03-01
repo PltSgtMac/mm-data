@@ -145,7 +145,7 @@ TR:3039
 90.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Chippewa is a ninety-ton heavy aerospace fighter commissioned in 2584 by Bowie Industries for the Star League Defense Force. Designed to provide overwhelming firepower during the Reunification War campaigns against the Periphery states, the Chippewa was built to close with enemy formations and deliver devastating strikes at short and medium range. Its large, swept-wing airframe provides surprising atmospheric agility for a craft of its size, with retractable wingtips that allow it to be stored compactly aboard carrier vessels.</p><p>The Chippewa became synonymous with the Lyran Commonwealth after the fall of the Star League, serving as House Steiner's primary heavy fighter for centuries. Licensed production by Vandenberg Mechanized Industries on New Vandenberg also ensured a steady supply to the Taurian Concordat. Though never the fastest or most agile heavy fighter in service, the Chippewa earned a fearsome reputation through the sheer volume of fire it could bring to bear on any target foolish enough to remain in its sights.</p>
 </overview>
@@ -167,7 +167,7 @@ Bowie Industries, Vandenberg Mechanized Industries
 </manufacturer>
 
 <primaryFactory>
-Alarion, Dell, Wasat, New Vandenberg
+Alarion (Bowie Industries), Dell (Bowie Industries), Wasat (Bowie Industries), New Vandenberg (Vandenberg Mechanized Industries)
 </primaryFactory>
 
 <systemManufacturers>

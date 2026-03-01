@@ -133,7 +133,7 @@ TR:3075
 2.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Erinyes is a two-ton second-generation ProtoMek designed by Clan Jade Falcon after obtaining Smoke Jaguar scientific records following the Jaguar Annihilation. Conceived as a proof-of-concept effort to validate the Falcons' ability to independently produce ProtoMek technology, the Erinyes was a deliberately conservative design that hewed closely to the parameters established by the first-generation Harpy. Khan Marthe Pryde terminated the program in 3064 after lackluster performance in test raids against the Lyran Alliance, but the design resurfaced nearly a decade later under mysterious circumstances during devastating attacks on Falcon worlds by unknown forces wielding upgraded Erinyes variants.</p>
 </overview>
@@ -151,11 +151,11 @@ TR:3075
 </history>
 
 <manufacturer>
-Unknown
+CJF Factory Zone 5
 </manufacturer>
 
 <primaryFactory>
-Unknown
+Erewhon
 </primaryFactory>
 
 <systemManufacturers>

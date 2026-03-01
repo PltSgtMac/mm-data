@@ -142,7 +142,7 @@ XTR:Boondocks
 35.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Drake Medium Strike Fighter is a 35-ton experimental conventional fighter refit developed by Basantapur Fine Metals at their aerospace testing range on Colorado. First assembled in 3073, the design emerged from BFM's prototype program and served as the testbed for technologies later incorporated into the production Drake Medium Stealth Fighter. Built on the same basic airframe as Imstar Aerospace's popular Defender, the Drake is heavier than its progenitor, sacrificing some maneuverability for exceptional armor protection far beyond what conventional aircraft typically carry. The experimental design layers multiple advanced armor systems on all facings, giving the fighter a distinctive thick, scaled appearance. Though never intended for mass production in its prototype configuration, the Drake Medium Strike Fighter proved the viability of advanced protection technologies on conventional airframes and established BFM's credentials as a defense innovator.</p>
 </overview>
@@ -160,11 +160,11 @@ XTR:Boondocks
 </history>
 
 <manufacturer>
-Basantapur Fine Metals
+Basantapur Fine Metals, Refit - Basantapur Fine Metals Aerospace Range
 </manufacturer>
 
 <primaryFactory>
-Colorado
+Colorado (Basantapur Fine Metals), Colorado (Refit - Basantapur Fine Metals Aerospace Range)
 </primaryFactory>
 
 <systemManufacturers>

@@ -140,7 +140,7 @@ TR:3145:LC
 40.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Sternensturm is Lockheed/CBM's forty-ton OmniFighter, developed in the years following the Jihad to fill a critical gap in the Lyran Commonwealth Armed Forces' light aerospace assets. Designed at Lockheed/CBM's facilities on Tharkad and introduced in 3098, it entered service as the smaller companion to the heavier Morgenstern, giving LCAF commanders a fast, durable platform capable of air superiority missions or close air support with equal effectiveness. Rather than competing with the Morgenstern's raw firepower, the Sternensturm was conceived to operate in conjunction with it, providing the speed and flexibility needed to screen heavier assets and chase down lighter opposition. Its combination of thrust, protective airframe, and OmniFighter adaptability made it one of the more capable light fighters available to Lyran aerospace forces in the Dark Age period.</p>
 </overview>
@@ -158,7 +158,7 @@ TR:3145:LC
 </history>
 
 <manufacturer>
-Lockheed/CBM
+Lockheed/CBM Corp.
 </manufacturer>
 
 <primaryFactory>

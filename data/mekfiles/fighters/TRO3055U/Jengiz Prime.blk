@@ -141,7 +141,7 @@ TR:3055U
 80.0
 </tonnage>
 
-# Fluff Date: 2026-02-26 19:50:04
+# Fluff Date: 2026-02-28 17:47:08
 <overview>
 <p>The Jengiz is one of the heaviest and most capable OmniFighters in Clan service, developed in 3032 by Clan Ghost Bear as a dedicated near-space combat platform. Where most fighters balance firepower against maneuverability, the Jengiz inverts this philosophy, sacrificing atmospheric agility for an extraordinary combination of armor and weapons capacity. The design attracted immediate and widespread interest across all Clans, but only Clan Wolf succeeded in the Trials of Possession required to secure the design through legitimate means. All other Clans that field the Jengiz have done so through battlefield capture, earning it a gradual but steady presence across Clan aerospace inventories far beyond its original Ghost Bear origins.</p>
 </overview>
@@ -159,11 +159,11 @@ TR:3055U
 </history>
 
 <manufacturer>
-Bear's Den
+Bear's Den, Tseng Facility, Wolf Armor Works
 </manufacturer>
 
 <primaryFactory>
-Strana Mechty
+Strana Mechty (Bear Enclave) (Bear's Den), Alshain (Tseng Facility), Eden (Abaddon) (Wolf Armor Works)
 </primaryFactory>
 
 <systemManufacturers>
