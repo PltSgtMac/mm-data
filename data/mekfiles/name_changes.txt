@@ -1530,6 +1530,7 @@ Rhino Battle Armor (Standard)(Sqd4)|Rhino Battle Armor (Sqd4)
 Rhino Battle Armor (Standard)(Sqd5)|Rhino Battle Armor (Sqd5)
 Rhino Battle Armor (Standard)(Sqd6)|Rhino Battle Armor (Sqd6)
 Rhino Fire Support Tank (Standard)|Rhino Fire Support Tank
+Rhino Fire Support Tank EC|Rhino Fire Support Tank EC
 Rifleman IIC (Standard)|Rifleman IIC
 Ripper Infantry Transport (Standard)|Ripper Infantry Transport
 Roc (Standard)|Roc
@@ -1761,6 +1762,7 @@ Zanadu Air Bus (Standard)|Zanadu Air Bus
 Zechetinu Corvette (Standard)|Zechetinu Corvette
 Zechetinu II Corvette (Standard)|Zechetinu II Corvette
 Zephyr Hovertank (Standard)|Zephyr Hovertank
+Zephyr Hovertank EC|Zephyr Hovertank EC
 Zephyros Infantry Support Vehicle (Standard)|Zephyros Infantry Support Vehicle
 Zhen Niao (Standard)|Zhen Niao
 Zhukov Heavy Tank (Standard)|Zhukov Heavy Tank
